@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "channel": "dev",
+  "game_id": "th14",
+  "issued_at": "2026-10-06T14:31:54Z",
+  "target_id": "th14_100b",
+  "packages": [
+    {
+      "package_id": "th14-content-sample",
+      "package_version": "1.0.0",
+      "content_version": "1.0.0",
+      "minimum_launcher_version": "0.1.0",
+      "content_manifest_sha256": "082a8e97353a8f3c001d1e34fd9809fcb8c4b8ecc24b51f506fafa0e29478dc1",
+      "byte_length": 94208,
+      "path": "packages/th14-content-sample.082a8e97353a8f3c001d1e34fd9809fcb8c4b8ecc24b51f506fafa0e29478dc1.db"
+    }
+  ]
+}
