@@ -2,8 +2,8 @@
   "schema_version": 4,
   "channel": "dev",
   "game_id": "th14",
-  "issued_at": "2026-10-06T14:30:23Z",
-  "content_version": "2026.10.06.143020",
+  "issued_at": "2026-10-06T14:57:25Z",
+  "content_version": "2026.10.06.145723",
   "minimum_launcher_version": "0.1.0",
   "database_schema_version": 2,
   "targets": [
