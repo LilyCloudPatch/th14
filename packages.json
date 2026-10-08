@@ -1,12 +1,16 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "channel": "release",
   "game_id": "th14",
-  "issued_at": "2026-10-08T11:10:49Z",
+  "issued_at": "2026-10-08T13:19:43Z",
   "target_id": "th14_100b",
   "packages": [
     {
       "package_id": "thpatch-skipgame",
+      "title": "thpatch 跳关补丁（TH14）",
+      "description": "跳过 TH14 Stage 1–7 的战斗演出。内容来自 thpatch skipgame（CC BY-SA 4.0，署名分发）。",
+      "kind": "base",
+      "delivery": "single",
       "package_version": "0.2.0",
       "content_version": "2026.1008.1",
       "minimum_launcher_version": "0.1.0",
