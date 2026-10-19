@@ -1,0 +1,355 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st07f.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "この嵐は自然の物ではないわ"
+      ],
+      "translated_lines": [
+        "这风暴不是自然产生的"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "強大な魔力が大気に",
+        "|60,6,マジックストーム",
+        "干渉した魔力嵐……！"
+      ],
+      "translated_lines": [
+        "强大的魔力干涉大气",
+        "|82,10,Magic Storm",
+        "从而产生的魔力风暴……！"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "ようやく来たわね",
+        "人間のメイドよ"
+      ],
+      "translated_lines": [
+        "你终于来了呢",
+        "人类的女仆"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "打ち出の小槌の件は",
+        "私の耳にも届いているわ"
+      ],
+      "translated_lines": [
+        "万宝槌之事",
+        "我早已有所耳闻"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "あらそうでしたか"
+      ],
+      "translated_lines": [
+        "哎呀是这样的么"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "この異常な魔力嵐の中",
+        "貴方も苦しいでしょう"
+      ],
+      "translated_lines": [
+        "待在这种异常的魔力风暴里",
+        "你也够辛苦的吧"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "小槌の魔力を回収して",
+        "ただの道具に戻してあげます"
+      ],
+      "translated_lines": [
+        "我会回收万宝槌的魔力",
+        "把你变回普通的道具的"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "ざーんねんね",
+        "ただの道具に戻る気なんて毛頭無い"
+      ],
+      "translated_lines": [
+        "真～遗憾呢",
+        "我可是一点都没有要变回去的意思呢"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "それにもう手遅れよ"
+      ],
+      "translated_lines": [
+        "而且已经晚了哦"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "手遅れ？"
+      ],
+      "translated_lines": [
+        "晚了？"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "私は呪われた小槌の魔力を抜いて",
+        "魔力を取り替えたのよ"
+      ],
+      "translated_lines": [
+        "被诅咒的小槌的魔力",
+        "已经让我抽除并替换掉了"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "もう打ち出の小槌の魔力",
+        "なんて必要ないの"
+      ],
+      "translated_lines": [
+        "已经不再需要",
+        "小槌的魔力了"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "取り替えた……ですって？",
+        "そんなことが出来るの？　付喪神に……"
+      ],
+      "translated_lines": [
+        "你说……替换了？",
+        "这种事可能吗？对于付丧神来说……"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "あらあら",
+        "付喪神だから簡単に出来るのよ？"
+      ],
+      "translated_lines": [
+        "哎呀哎呀",
+        "正因为是付丧神才不难做到哦？"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "何故なら道具は使用者を変えれば",
+        "魔力が変わるんだからね"
+      ],
+      "translated_lines": [
+        "因为道具只要使用者一变",
+        "魔力也会随之变化"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "さあ試すとするか",
+        "私の新しい魔力を"
+      ],
+      "translated_lines": [
+        "那就来试试吧",
+        "我全新的魔力"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "|113,11,ドラマー",
+        "さあ外の世界の使役者よ！",
+        "幻想郷に夢幻のビートを響かせよ！"
+      ],
+      "translated_lines": [
+        "|136,17,鼓手",
+        "来吧，外面世界的使用者啊！",
+        "让梦幻的节拍响彻幻想乡吧！"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "あらららら",
+        "降参よー"
+      ],
+      "translated_lines": [
+        "哎呀呀呀呀",
+        "我投降～"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "ふう",
+        "強かったわ"
+      ],
+      "translated_lines": [
+        "呼　",
+        "真强啊"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "ちょっと気軽に退治するレベルじゃ",
+        "無かったわね"
+      ],
+      "translated_lines": [
+        "不是那种",
+        "能轻易退治的级别呢"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "まだ新しい魔力が使いこなせてない",
+        "のかな"
+      ],
+      "translated_lines": [
+        "可能还无法对新的魔力",
+        "运用自如吧"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "ところで新しい魔力って……",
+        "もしかして"
+      ],
+      "translated_lines": [
+        "话说所谓新的魔力……",
+        "难道说"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "|78,8,ドラマー",
+        "外の世界の魔力よ",
+        "未知の力が次々と流れ込んでくるわ"
+      ],
+      "translated_lines": [
+        "|81,16,鼓手",
+        "外面世界的魔力哦",
+        "未知的力量一个接着一个流进来"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "あら危険思想ね"
+      ],
+      "translated_lines": [
+        "哎呀真是危险的思想"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "外の世界に干渉するなんて……"
+      ],
+      "translated_lines": [
+        "居然干涉外面的世界……"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "そうかな？",
+        "でも私達道具には結界なんて関係無いもん"
+      ],
+      "translated_lines": [
+        "是这样么？",
+        "不过对我们道具来说结界都是无所谓的"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "自然に行き来出来るのよ"
+      ],
+      "translated_lines": [
+        "能随意往返穿梭哦"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "ほら勝手に流れ着いたりしているでしょ？",
+        "外の道具が"
+      ],
+      "translated_lines": [
+        "不是经常会有些漂流到此的么？",
+        "外界的道具"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "ふーん　って付喪神になったから",
+        "もうそういう訳にはいかないんじゃない？"
+      ],
+      "translated_lines": [
+        "是吗，既然已经变成付丧神了",
+        "应该已经做不到那种事情了吧？"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "あ　",
+        "そうかも……"
+      ],
+      "translated_lines": [
+        "啊　",
+        "可能是的……"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "どうする？",
+        "元の道具に戻るなら協力するけど"
+      ],
+      "translated_lines": [
+        "怎么办？",
+        "要想变回道具的话我会帮忙的"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "……いやー",
+        "それだけは勘弁して下さい"
+      ],
+      "translated_lines": [
+        "……不～",
+        "这个还是饶了我吧"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "ただ叩かれ踏まれるだけの",
+        "生活に戻りたくないわ"
+      ],
+      "translated_lines": [
+        "我可不想再回到以前",
+        "总是被敲被踹的生活了"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "叩かれたくない……って",
+        "貴方　太鼓でしょ？"
+      ],
+      "translated_lines": [
+        "不想再被敲……等等",
+        "你，是太鼓吧？"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "悪いけどここで足止めさせてもらうよ"
+      ],
+      "translated_lines": [
+        "虽然不好意思，但我们要在这里阻止你"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "鎮魂ライブの始まり始まりー！"
+      ],
+      "translated_lines": [
+        "镇魂演出就此开演就此开演～！"
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/e12.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　紅魔館。"
+      ],
+      "translated_lines": [
+        "　　红魔馆。"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　咲夜の心は打ち砕かれていた。"
+      ],
+      "translated_lines": [
+        "　　咲夜的内心动摇着。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "咲夜「打ち出の小槌の力は想像以上だったわ。"
+      ],
+      "translated_lines": [
+        "咲夜「万宝槌的力量真是超乎想象。"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "　　　早くお嬢様に伝えるべきなのか……それとも……」"
+      ],
+      "translated_lines": [
+        "　　　是应该早点告诉大小姐呢……还是说……」"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "　　咲夜は万が一のことを考えて伝えるのを辞めた。"
+      ],
+      "translated_lines": [
+        "　　咲夜想到了万一的可能性，决定不去传达。"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "　　何しろ、打ち出の小槌はどんな願いでも叶えるのだから……"
+      ],
+      "translated_lines": [
+        "　　毕竟，万宝槌是不管什么愿望都能实现的……"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "　"
+      ],
+      "translated_lines": [
+        "　"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "　　Ending　No.12　　たまには他人のプレイでも見て……"
+      ],
+      "translated_lines": [
+        "　　Ending　No.12　　偶尔看看别人的玩法也……"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "　　ノーコンティニューでクリアを目指せ！"
+      ],
+      "translated_lines": [
+        "　　以不续关通关为目标努力吧！"
+      ]
+    }
+  }
+}

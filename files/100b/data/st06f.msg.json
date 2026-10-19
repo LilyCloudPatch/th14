@@ -1,0 +1,280 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st06f.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "いつの間にか夜が明けてるわ",
+        "嵐も去ったみたい"
+      ],
+      "translated_lines": [
+        "不知不觉天已经亮了啊",
+        "似乎风暴也过去了"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "ここからなら幻想郷が",
+        "見下ろせるわね……"
+      ],
+      "translated_lines": [
+        "从这里似乎能够",
+        "俯瞰幻想乡呢……"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "だーれ？"
+      ],
+      "translated_lines": [
+        "谁～呀？"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "あら人間？",
+        "何か用？"
+      ],
+      "translated_lines": [
+        "哎呀是人类？",
+        "什么事？"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "|71,17,レジスタンス",
+        "この辺にひっくり返す者が居ると",
+        "聞きまして……"
+      ],
+      "translated_lines": [
+        "|97,16,起义军",
+        "我听说有一些颠覆者",
+        "在这附近……"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "あら……賛同者って訳？",
+        "人間の貴方が？"
+      ],
+      "translated_lines": [
+        "哎呀……难道是支持者？",
+        "身为人类的你？"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "嬉しいわ！"
+      ],
+      "translated_lines": [
+        "好高兴啊！"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "我々小人の一族はその身体的特徴から",
+        "どうしても力は弱かった"
+      ],
+      "translated_lines": [
+        "我们小人一族由于身体特征",
+        "无论如何力量都很弱小"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "味方する者も殆どいない",
+        "利用するだけして後はポイッだ"
+      ],
+      "translated_lines": [
+        "也几乎没有任何人站在我们这边",
+        "利用完之后就被随手一扔"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "例え人間にも味方が居るって",
+        "こんなに嬉しい事なんだ"
+      ],
+      "translated_lines": [
+        "如果能有人类的同伴",
+        "那会是件非常高兴的事"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "いやえーと",
+        "あの"
+      ],
+      "translated_lines": [
+        "不，怎么说",
+        "那个"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "私はその企みを止めようと……"
+      ],
+      "translated_lines": [
+        "我是来阻止那个企图……"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "取り敢えず貴方にも力を与えないとね"
+      ],
+      "translated_lines": [
+        "总而言之不先给你力量的话可不成"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "自分が良い？",
+        "そのナイフが良い？"
+      ],
+      "translated_lines": [
+        "你自己比较好？",
+        "还是那把刀比较好？"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "え？",
+        "もしかして力って……"
+      ],
+      "translated_lines": [
+        "哎？",
+        "难道所谓的力量……"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "道具を付喪神にするような力ですか？"
+      ],
+      "translated_lines": [
+        "是把道具变为付丧神的力量？"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "そうよ",
+        "それが欲しくて来たんでしょ？"
+      ],
+      "translated_lines": [
+        "正是",
+        "你不正是为此而来的么？"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "ふーむ"
+      ],
+      "translated_lines": [
+        "唔～"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "どのみち人間では居られなくなる",
+        "でしょうけど"
+      ],
+      "translated_lines": [
+        "虽说不管哪个恐怕都无法",
+        "再做人类了"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "ハッキリと言った方が良いわね"
+      ],
+      "translated_lines": [
+        "还是说清楚一点比较好呢"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "私は支配者側の人間であり",
+        "レジスタンス行為は自分にとって反逆行為"
+      ],
+      "translated_lines": [
+        "我是支配者一侧的人类",
+        "起义行为对我来说便是逆反行为"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "私は貴方達と与する事は出来ません"
+      ],
+      "translated_lines": [
+        "我怎么也不可能与你为伍"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "むしろここで征伐します！"
+      ],
+      "translated_lines": [
+        "不如说说还要在此讨伐你！"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "あはははは",
+        "そうか支配者側……か　残念だ"
+      ],
+      "translated_lines": [
+        "啊哈哈哈哈",
+        "是吗支配者一侧……吗，遗憾"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "だが私の手には夢幻の力がある"
+      ],
+      "translated_lines": [
+        "但我手中有着梦幻之力"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "|160,10,こづち",
+        "それが秘宝『打ち出の小槌』！"
+      ],
+      "translated_lines": [
+        "那便是秘宝『万宝槌』！"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "打ち出の小槌ですか……",
+        "……えっ！？　何ですって？"
+      ],
+      "translated_lines": [
+        "是万宝槌啊……",
+        "……哎！？你说什么？"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "私には見える",
+        "支配関係が逆転する未来が！"
+      ],
+      "translated_lines": [
+        "我眼中看到的",
+        "是支配关系被逆转的未来！"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "|48,10,こづち",
+        "さあ、秘宝よ！",
+        "社会的弱者に夢幻の力を与え給え！"
+      ],
+      "translated_lines": [
+        "|49,16,小槌",
+        "来吧，秘宝哟！",
+        "给予社会中的弱者们梦幻之力吧！"
+      ]
+    }
+  }
+}

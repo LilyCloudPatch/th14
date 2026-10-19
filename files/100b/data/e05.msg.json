@@ -1,0 +1,251 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/e05.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　紅魔館。"
+      ],
+      "translated_lines": [
+        "　　红魔馆。"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　湖の畔にある吸血鬼が棲む洋館である。"
+      ],
+      "translated_lines": [
+        "　　这是位于湖畔的吸血鬼栖息的洋馆。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "咲夜　「……この妖剣は一寸法師の物だったのねぇ」"
+      ],
+      "translated_lines": [
+        "咲夜　「……这把妖剑原来是一寸法师的东西啊」"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "　"
+      ],
+      "translated_lines": [
+        "　"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "　　妖剣が妖しい光を放つ。"
+      ],
+      "translated_lines": [
+        "　　妖剑闪耀着妖异的光芒。"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "　"
+      ],
+      "translated_lines": [
+        "　"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "咲夜　「いけないいけない。何か良からぬ心が湧いてくるわ」"
+      ],
+      "translated_lines": [
+        "咲夜　「不行不行。有些不好的念头冒出来了」"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "咲夜　「……。"
+      ],
+      "translated_lines": [
+        "咲夜　「……。"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "　　　　何か試しに斬る物は無いかしら？"
+      ],
+      "translated_lines": [
+        "　　　　有什么可以试着砍一砍的东西呢？"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "　　　　妖精とか丁度良いわね」"
+      ],
+      "translated_lines": [
+        "　　　　妖精什么的应该不错」"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "レミリア「あらあら何をしているの？」"
+      ],
+      "translated_lines": [
+        "蕾米莉亚「哎呀哎呀你在干什么？」"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "咲夜　　「ちょっとこの妖剣が血を欲しているので",
+        "　　　　　試し切りしようかと……」"
+      ],
+      "translated_lines": [
+        "咲夜　　「这把妖剑有点渴望鲜血",
+        "　　　　　所以想试着砍点什么……」"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "レミリア「へー」"
+      ],
+      "translated_lines": [
+        "蕾米莉亚「是吗～」"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "レミリア「そういえば、湖で暴れてた奴はどうなったの？」"
+      ],
+      "translated_lines": [
+        "蕾米莉亚「说起来，在湖里大闹的那家伙怎么样了？」"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "咲夜　　「それでしたらとっくに退治しました。"
+      ],
+      "translated_lines": [
+        "咲夜　　「那家伙早就被我退治了。"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "　　　　　それ以外の敵も全て」"
+      ],
+      "translated_lines": [
+        "　　　　　除此之外的敌人也全部被退治了」"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "レミリア「ふーん、そうなんだ」"
+      ],
+      "translated_lines": [
+        "蕾米莉亚「是吗，原来如此」"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "咲夜　　「どうですか？"
+      ],
+      "translated_lines": [
+        "咲夜　　「怎么样？"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "　　　　　ちょっとこの妖剣の切れ味を試されてみませんか？」"
+      ],
+      "translated_lines": [
+        "　　　　　您要不要尝尝这把妖剑有多锋利呢？」"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "レミリア「面白いの？」"
+      ],
+      "translated_lines": [
+        "蕾米莉亚「好玩吗？」"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "咲夜　　「ええ多分。この剣が喜びます」"
+      ],
+      "translated_lines": [
+        "咲夜　　「应该是的。这把剑会很开心的」"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "レミリア「あらあら、咲夜が逞しくなっちゃって……。嬉しいわ」"
+      ],
+      "translated_lines": [
+        "蕾米莉亚「哎呀哎呀，咲夜变得强悍了呢……。好高兴」"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "　　勝手に斬りかかる妖剣は、元々一寸法師の持ち物だった。"
+      ],
+      "translated_lines": [
+        "　　会自己砍向敌人的妖剑，原本归一寸法师所有。"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "　　咲夜はそれを返す事はせず、再び持ち帰った。"
+      ],
+      "translated_lines": [
+        "　　咲夜并没有把剑还给对方，直接把它带了回去。"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "　　咲夜はこの剣が妖しい魔力を放っていることは判っていたが、",
+        "　　それでも手放せなかったのである。"
+      ],
+      "translated_lines": [
+        "　　咲夜尽管知道这把剑释放着妖异的魔力，",
+        "　　但就算这样也无法忍心放手。"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "　　暫くは妖剣の思うがままに妖怪を斬り付けるだろう。"
+      ],
+      "translated_lines": [
+        "　　一段时间内她还会遵照妖剑的意志去砍妖怪吧。"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "　　しかしその乱暴な姿は、紅魔館の主人には気に入られたようだ。"
+      ],
+      "translated_lines": [
+        "　　但是她那粗暴的样子，似乎深得红魔馆主人的欢心。"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "　"
+      ],
+      "translated_lines": [
+        "　"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "　　Ending　No.05　　丁寧で瀟洒な狂気"
+      ],
+      "translated_lines": [
+        "　　Ending　No.05　　细心而潇洒的狂气"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "　　　　　オールクリアおめでとう！　クールだね！"
+      ],
+      "translated_lines": [
+        "　　　　　恭喜全部通关！　真酷！"
+      ]
+    }
+  }
+}

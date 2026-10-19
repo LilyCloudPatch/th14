@@ -1,0 +1,356 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st05e.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "何だ？",
+        "お前は"
+      ],
+      "translated_lines": [
+        "怎么？",
+        "你是谁"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "ここはお前達のような人間が",
+        "来る場所ではない"
+      ],
+      "translated_lines": [
+        "这里可不是你们这样的人类",
+        "可以来的地方"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "即刻立ち去れい！"
+      ],
+      "translated_lines": [
+        "速速离去！"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "ここに来たら道具が力を",
+        "持てると聞きました"
+      ],
+      "translated_lines": [
+        "我听说到这里",
+        "道具就会拥有力量"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "その話を詳しく",
+        "聞きたいのですが……"
+      ],
+      "translated_lines": [
+        "关于这件事情",
+        "我想详细地了解下……"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "……ほう",
+        "その手持ちの剣は"
+      ],
+      "translated_lines": [
+        "……是吗",
+        "你手里拿的剑"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "自我を持っている様だな"
+      ],
+      "translated_lines": [
+        "似乎拥有自我啊"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "|4,14,・・",
+        "アレの代償が大きすぎたか……",
+        "こんな物まで影響を及ぼすのか"
+      ],
+      "translated_lines": [
+        "|49,16,··",
+        "那个的代价太大了吗……",
+        "这种东西也会受影响啊"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "はい？"
+      ],
+      "translated_lines": [
+        "什么？"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "まあいい",
+        "もっと強くありたいのか？"
+      ],
+      "translated_lines": [
+        "不过也好",
+        "你想变得更强吗？"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "まあ……そうですわね"
+      ],
+      "translated_lines": [
+        "是啊……是这样"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "なら私の仲間になるがいい"
+      ],
+      "translated_lines": [
+        "那就成为我的同伴吧"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "|55,17,レジスタンス",
+        "我々はひっくり返す者だ",
+        "幻想郷の勢力図を塗り替えてやる"
+      ],
+      "translated_lines": [
+        "|49,17,起义军",
+        "我们是颠覆者",
+        "我们要改写幻想乡的势力图"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "レジスタンス！？"
+      ],
+      "translated_lines": [
+        "起义军！？"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "これはこれは……",
+        "大変な話を聞いちゃった"
+      ],
+      "translated_lines": [
+        "哎呀哎呀……",
+        "听到了不得了的事情"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "どうだ？",
+        "賛同するか？"
+      ],
+      "translated_lines": [
+        "如何？",
+        "你赞同吗？"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "残念ながら私は既に",
+        "別勢力に付いていますので"
+      ],
+      "translated_lines": [
+        "遗憾的是我已经",
+        "跟随了其他势力了"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "レジスタンスという事は",
+        "私達に対しての反逆という事"
+      ],
+      "translated_lines": [
+        "起义就代表着",
+        "对我们的叛逆"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "仲間になる選択肢は元より無い"
+      ],
+      "translated_lines": [
+        "成为同伴的选项原本就不存在"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "そうか……",
+        "残念だな"
+      ],
+      "translated_lines": [
+        "是吗……",
+        "真是遗憾"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "|132,14,いか",
+        "我ら力弱き者達が如何に",
+        "虐げられていたか"
+      ],
+      "translated_lines": [
+        "我们弱者是如何被",
+        "凌虐的"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "お前達には想像できないか",
+        "……ならば"
+      ],
+      "translated_lines": [
+        "你们是想象不到的吧",
+        "……这样的话"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "何もかもひっくり返る逆さ城で",
+        "弱者の屈辱を味わうがいい！"
+      ],
+      "translated_lines": [
+        "就在这万物颠倒的倒立城",
+        "体味弱者的屈辱吧！"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "くう",
+        "なんてこった"
+      ],
+      "translated_lines": [
+        "咕　",
+        "怎么会这样"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "時期尚早だったか"
+      ],
+      "translated_lines": [
+        "现在还为时尚早吗"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "口ほどではなかったですね"
+      ],
+      "translated_lines": [
+        "并没有嘴上说得那么厉害呢"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "この剣だけで倒せそう……"
+      ],
+      "translated_lines": [
+        "好像只用这把剑就能打败你……"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "くっ",
+        "その剣の力も代償の影響だ"
+      ],
+      "translated_lines": [
+        "呵　",
+        "那把剑的力量也是代价的影响"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "自分で首を絞めることに",
+        "なろうとはな"
+      ],
+      "translated_lines": [
+        "你可不要",
+        "自取灭亡啊"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "まあいい"
+      ],
+      "translated_lines": [
+        "不过也好"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "|84,14,・・",
+        "我らの手に秘宝がある限り",
+        "いくらでも強くなれるだろう"
+      ],
+      "translated_lines": [
+        "|33,16,··",
+        "只要秘宝还在我等手中",
+        "不管多强的力量都可以获得"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "さらばだ"
+      ],
+      "translated_lines": [
+        "再会了"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "あっ……"
+      ],
+      "translated_lines": [
+        "啊……"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "これでハッキリしたわ"
+      ],
+      "translated_lines": [
+        "这下可就清楚了"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "道具が動き出したり",
+        "大人しい妖怪が暴れたりしたのは"
+      ],
+      "translated_lines": [
+        "道具开始动起来",
+        "老实的妖怪开始大闹"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "|-2,8,レジスタンス",
+        "天邪鬼の仕業ね"
+      ],
+      "translated_lines": [
+        "|49,16,起义军",
+        "全都是天邪鬼干的好事"
+      ]
+    },
+    "text-036": {
+      "original_lines": [
+        "どういう手段を使ったのか",
+        "までは判らないけど"
+      ],
+      "translated_lines": [
+        "虽然现在还不知道",
+        "使用了什么手段"
+      ]
+    }
+  }
+}

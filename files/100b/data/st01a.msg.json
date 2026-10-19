@@ -1,0 +1,105 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st01a.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "こんな湖に暴れるような",
+        "妖怪がいたっけなぁ"
+      ],
+      "translated_lines": [
+        "在这种湖里有那种",
+        "会暴动的妖怪来着吗"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "あなたは！"
+      ],
+      "translated_lines": [
+        "你是！"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "かの高名な巫女じゃ",
+        "ありませんか"
+      ],
+      "translated_lines": [
+        "这不是那个大名鼎鼎的",
+        "巫女吗"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "おっと人魚？"
+      ],
+      "translated_lines": [
+        "哎哟人鱼？"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "なーんだ",
+        "雑魚じゃん"
+      ],
+      "translated_lines": [
+        "什么啊",
+        "杂鱼啊"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "そうやって相手にされなく",
+        "なってから幾星霜"
+      ],
+      "translated_lines": [
+        "就这样不被理睬",
+        "不知过了几个星霜"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "|62,8,ようかい",
+        "そろそろ私達が",
+        "活躍する番よ！"
+      ],
+      "translated_lines": [
+        "|33,16,妖怪",
+        "该是我们",
+        "大显身手的时候了！"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "人魚は大人しい妖怪だと",
+        "思ってたんだけどねぇ"
+      ],
+      "translated_lines": [
+        "我还觉得人鱼",
+        "是很老实的妖怪呢"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "やっぱり何か",
+        "起きてるのかな"
+      ],
+      "translated_lines": [
+        "果然还是",
+        "出了什么事吧"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "このお祓い棒の事も",
+        "気になるしね"
+      ],
+      "translated_lines": [
+        "而且这个驱魔棒的事情",
+        "也比较令人在意"
+      ]
+    }
+  }
+}

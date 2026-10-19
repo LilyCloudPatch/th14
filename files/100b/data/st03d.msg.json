@@ -1,0 +1,251 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st03d.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "私を退治しに来たのね？"
+      ],
+      "translated_lines": [
+        "是来退治我的吧？"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "あー",
+        "退治されたいようだな"
+      ],
+      "translated_lines": [
+        "啊～",
+        "好像是想要被退治呢"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "貴方に私が倒せるかしら？"
+      ],
+      "translated_lines": [
+        "就凭你能打倒我吗？"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "自信ありげだな"
+      ],
+      "translated_lines": [
+        "自信满满呢"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "何か罠でも張っているのか？"
+      ],
+      "translated_lines": [
+        "你布置了什么陷阱吗？"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "ふふふ",
+        "今日は満月だから……"
+      ],
+      "translated_lines": [
+        "呵呵呵",
+        "因为今天是满月…"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "何の話だ？"
+      ],
+      "translated_lines": [
+        "你在说什么？"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "はっ"
+      ],
+      "translated_lines": [
+        "啊　"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "迷いの竹林で満月だと？",
+        "何か嫌な予感がするな"
+      ],
+      "translated_lines": [
+        "你说满月下的迷途竹林？",
+        "总有种不好的预感"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "そう　いまや竹林は",
+        "月に祝福された地"
+      ],
+      "translated_lines": [
+        "没错，现在的竹林",
+        "是被月祝福的土地"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "ここで私と闘うなんて",
+        "気の毒だわ……"
+      ],
+      "translated_lines": [
+        "要在这里和我战斗",
+        "还真是可怜……"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "狼女か……"
+      ],
+      "translated_lines": [
+        "狼女吗……"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "湖の人魚といい今日は",
+        "半分人間の奴に会うな"
+      ],
+      "translated_lines": [
+        "再加上湖里的人鱼",
+        "今天净是遇到些一半是人类的家伙呢"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "ろくろ首はどうか判らんが……",
+        "あれも首から下は人間なのか？"
+      ],
+      "translated_lines": [
+        "辘轳首不知道是怎么样……",
+        "那个从脖子以下是人类吗？"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "湖の人魚って……",
+        "わかさぎ姫の事？"
+      ],
+      "translated_lines": [
+        "湖里的人鱼……",
+        "是指若鹭姬？"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "そうだ",
+        "知り合いか？"
+      ],
+      "translated_lines": [
+        "没错",
+        "你认识吗？"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "それなりにね",
+        "草の根妖怪ネットワークで"
+      ],
+      "translated_lines": [
+        "差不多吧",
+        "通过草根妖怪网络认识的"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "間違って食べようとした",
+        "事はあるけど"
+      ],
+      "translated_lines": [
+        "虽然有一次",
+        "一不小心差点把她吃掉"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "ふーんそうか",
+        "やっぱり何か企んでるだろ？"
+      ],
+      "translated_lines": [
+        "是吗",
+        "果然还是有什么阴谋吧？"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "普段大人しい妖怪同士で",
+        "コソコソと……"
+      ],
+      "translated_lines": [
+        "平时比较老实的妖怪们聚在一起",
+        "偷偷摸摸地……"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "あの子が暴れるとは",
+        "何かの間違いじゃない？"
+      ],
+      "translated_lines": [
+        "那孩子会大闹",
+        "是不是搞错了什么？"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "気弱で虫も殺せない",
+        "ような性格よ？"
+      ],
+      "translated_lines": [
+        "她的性格可是软弱到",
+        "连个虫子都杀不死哦？"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "あー？"
+      ],
+      "translated_lines": [
+        "啊？"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "それに最低でも私は自分の",
+        "意思で暴れてみただけよ"
+      ],
+      "translated_lines": [
+        "而且无论如何我也是",
+        "凭自己的意志大闹一场的"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "うーん",
+        "嘘じゃ無さそうだな"
+      ],
+      "translated_lines": [
+        "嗯～",
+        "看起来不是在说谎"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "そうか……",
+        "みんな気が立ってるんだな"
+      ],
+      "translated_lines": [
+        "是吗……",
+        "大家都非常不满啊"
+      ]
+    }
+  }
+}

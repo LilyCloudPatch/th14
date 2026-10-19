@@ -1,0 +1,351 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st07d.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "随分と禍々しい嵐だな"
+      ],
+      "translated_lines": [
+        "还真是相当不详的风暴啊"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "この間より格段に強い魔力を",
+        "感じるぜ"
+      ],
+      "translated_lines": [
+        "在这当中感到了不一般的",
+        "强大魔力"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "ようやく来たわね",
+        "魔法使いの人間よ"
+      ],
+      "translated_lines": [
+        "终于来了呢",
+        "人类的魔法使"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "私を封じに来たというのなら",
+        "もう手遅れよ"
+      ],
+      "translated_lines": [
+        "如果你是来封印我的",
+        "你已经来迟了"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "手遅れだと？"
+      ],
+      "translated_lines": [
+        "迟了？"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "もう打ち出の小槌の魔力は",
+        "尽きているんだぜ"
+      ],
+      "translated_lines": [
+        "万宝槌的魔力明明已经",
+        "消耗殆尽了"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "ふふふ　私は自立した魔力を",
+        "手に入れたのよ"
+      ],
+      "translated_lines": [
+        "呵呵呵，我已经得到了",
+        "独立的魔力"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "もう打ち出の小槌の魔力など",
+        "必要ない"
+      ],
+      "translated_lines": [
+        "已经不再需要",
+        "万宝槌的魔力了"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "なんだと？",
+        "別の魔力で動いている　だと？"
+      ],
+      "translated_lines": [
+        "你说什么？",
+        "在依靠其他魔力……活动？"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "そうか　それなら",
+        "放っておけないな"
+      ],
+      "translated_lines": [
+        "是吗，这样的话",
+        "可就不能放过你了"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "そうなの？"
+      ],
+      "translated_lines": [
+        "是吗？"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "今回私のミニ八卦炉のお陰で",
+        "大切なことが判った"
+      ],
+      "translated_lines": [
+        "这次托了我的迷你八卦炉的福",
+        "我明白了很重要的事"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "道具が勝手に動くと困る！"
+      ],
+      "translated_lines": [
+        "道具随心所欲动起来会很麻烦！"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "つまりお前らが勝手に",
+        "動いているだけで迷惑という事だ！"
+      ],
+      "translated_lines": [
+        "就是说你们这些家伙光是",
+        "在动就已经在给人添麻烦了！"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "つまりそれは何？"
+      ],
+      "translated_lines": [
+        "那么那又怎么样？"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "さっき言ったでしょ？",
+        "私を封じたいのなら手遅れだと"
+      ],
+      "translated_lines": [
+        "我刚才说过了吧？",
+        "要封印我已经太迟了"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "どんな魔力で動いているのか知らんが",
+        "妖怪退治に手遅れはないぜ！"
+      ],
+      "translated_lines": [
+        "虽然不知道你是靠着什么魔力动起来的",
+        "但妖怪退治可永远不会太迟！"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "私のビートを聴いても",
+        "そう言えるかな？"
+      ],
+      "translated_lines": [
+        "等你听了我的节拍",
+        "还能说出这样的话吗？"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "|113,11,ドラマー",
+        "さあ外の世界の使役者よ！",
+        "|178,12,ビートイット",
+        "今夜は未知の鼓動で敵を退けるのだ！"
+      ],
+      "translated_lines": [
+        "|136,17,鼓手",
+        "来吧，外面世界的使用者啊！",
+        "|112,9,Beat it",
+        "今夜就以未知的鼓动击退敌人吧！"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "あらららら",
+        "降参よー"
+      ],
+      "translated_lines": [
+        "哎呀呀呀呀",
+        "我投降～"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "手強い相手だった"
+      ],
+      "translated_lines": [
+        "真是强力的对手"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "道具からこんなのが生まれるなんて",
+        "考えてみると恐ろしいな"
+      ],
+      "translated_lines": [
+        "道具当中也会诞生出这样的存在",
+        "想想就觉得可怕"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "まだまだ使いこなせてないかなぁ",
+        "外の世界の魔力"
+      ],
+      "translated_lines": [
+        "还是不能运用自如呢",
+        "外面世界的魔力"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "……外の世界の魔力　か",
+        "私でも使いこなせなかったが"
+      ],
+      "translated_lines": [
+        "……外面世界的魔力，吗",
+        "就连我也没能运用好"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "何にしてもお前は",
+        "退治しないでおいてやる"
+      ],
+      "translated_lines": [
+        "无论如何",
+        "这次就先不退治你了"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "……外の世界の魔力が",
+        "目的じゃないぞ？"
+      ],
+      "translated_lines": [
+        "……我才不是为了",
+        "外面世界的魔力哦？"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "あらそう？",
+        "なら自由にさせて貰うわ"
+      ],
+      "translated_lines": [
+        "哎呀是吗？",
+        "那就这样放我自由吧"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "そもそも私達付喪神は",
+        "暴れるためにいる訳じゃないの"
+      ],
+      "translated_lines": [
+        "本来我们付丧神",
+        "也不是为了暴走而存在的"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "怨みのある使用者に対しては",
+        "暴れる事もあるけど……"
+      ],
+      "translated_lines": [
+        "虽然对抱有怨恨的使用者",
+        "有时也会大闹一番……"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "貴方に使われた記憶はないしー"
+      ],
+      "translated_lines": [
+        "我也没有被你使用过的记忆～"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "怨みのある使用者に対しては",
+        "暴れる……か"
+      ],
+      "translated_lines": [
+        "对有积怨的使用者",
+        "大闹……吗"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "どうしたの？",
+        "何か思い当たる節でも？"
+      ],
+      "translated_lines": [
+        "怎么了？",
+        "想到什么了吗？"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "あ　いやその",
+        "まさか……"
+      ],
+      "translated_lines": [
+        "啊，不那个",
+        "难道说……"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "ミニ八卦炉は大事に使わんとな"
+      ],
+      "translated_lines": [
+        "迷你八卦炉一定要珍惜地使用才行啊"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "悪いけどここで足止めさせてもらうよ"
+      ],
+      "translated_lines": [
+        "虽然不好意思，但我们要在这里阻止你"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "鎮魂ライブの始まり始まりー！"
+      ],
+      "translated_lines": [
+        "镇魂演出就此开演就此开演～！"
+      ]
+    }
+  }
+}

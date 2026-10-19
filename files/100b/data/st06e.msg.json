@@ -1,0 +1,280 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st06e.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "天邪鬼を倒したけど……"
+      ],
+      "translated_lines": [
+        "虽然打倒了天邪鬼……"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "何でしょう",
+        "この胸騒ぎ……"
+      ],
+      "translated_lines": [
+        "怎么回事",
+        "这种躁动不安的感觉……"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "何か居るわね"
+      ],
+      "translated_lines": [
+        "有谁在这里吧"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "だーれ？"
+      ],
+      "translated_lines": [
+        "谁～呀？"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "あら人間？",
+        "何か用？"
+      ],
+      "translated_lines": [
+        "哎呀是人类？",
+        "什么事？"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "えーっと",
+        "ちょっと訊ねたい事がありまして"
+      ],
+      "translated_lines": [
+        "那个～",
+        "有点事想打听一下"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "あれ？",
+        "その剣は……"
+      ],
+      "translated_lines": [
+        "咦？",
+        "那把剑是……"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "間違い無いわ",
+        "私が実験的に付喪神にした物だー"
+      ],
+      "translated_lines": [
+        "没错",
+        "是我当作实验让它变成了付丧神那把～"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "え？",
+        "何ですって？"
+      ],
+      "translated_lines": [
+        "咦？",
+        "你说什么？"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "それをわざわざ持ってきてくれたの？",
+        "人間も捨てたもんじゃ無いわね"
+      ],
+      "translated_lines": [
+        "你特意把那个送回来了吗？",
+        "人类也不是一无是处呢"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "いやまあその"
+      ],
+      "translated_lines": [
+        "不，那个"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "我々小人の一族はその身体的特徴から",
+        "どうしても力は弱かった"
+      ],
+      "translated_lines": [
+        "我们小人一族由于身体特征",
+        "无论如何力量都很弱小"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "味方する者も殆どいない",
+        "利用するだけして後はポイッだ"
+      ],
+      "translated_lines": [
+        "也几乎没有任何人站在我们这边",
+        "利用完之后就被随手一扔"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "そんな私にわざわざ会いに",
+        "来るなんて……"
+      ],
+      "translated_lines": [
+        "你居然还会特意来见",
+        "这样的我……"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "えーっと盛り上がっているところ",
+        "申し訳ございません"
+      ],
+      "translated_lines": [
+        "那个～在您兴高采烈的时候",
+        "打断您真是对不起"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "私がここに来たのは成り行きです"
+      ],
+      "translated_lines": [
+        "但是我来这里是顺其自然的"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "そうよね",
+        "道具に導かれて来たのよね"
+      ],
+      "translated_lines": [
+        "是吧",
+        "被道具引导到这里了吧"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "さあ私と一緒に",
+        "世界をひっくり返しましょ？"
+      ],
+      "translated_lines": [
+        "那就和我一起",
+        "让世界天翻地覆吧？"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "|78,8,レジスタンス",
+        "……やはり天邪鬼の仲間なのね",
+        "貴方も"
+      ],
+      "translated_lines": [
+        "|113,16,起义军",
+        "……果然你也是天邪鬼的",
+        "同伙呢"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "私は勢力者の下にいる"
+      ],
+      "translated_lines": [
+        "我所属于一个势力"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "残念ながら私は反逆者に与する",
+        "つもりはない"
+      ],
+      "translated_lines": [
+        "很遗憾我并没有帮助",
+        "反叛者的打算"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "では何故その剣に導かれるままに",
+        "ここにやってきたの？"
+      ],
+      "translated_lines": [
+        "那么你为什么会顺从那把剑的引导",
+        "来到这里呢？"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "そ……それは",
+        "何となく妖怪を斬ってみたかっただけで"
+      ],
+      "translated_lines": [
+        "那……那是因为",
+        "我只是想砍砍妖怪而已"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "道具が望むままに使用者を動かす"
+      ],
+      "translated_lines": [
+        "道具会根据自己的想法驱使使用者"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "そんな事が可能になるのも",
+        "|144,10,こづち",
+        "この秘宝『打ち出の小槌』の力！"
+      ],
+      "translated_lines": [
+        "将这种事变为可能的",
+        "是这个秘宝『万宝槌』的力量！"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "打ち出の小槌ですか……",
+        "……えっ！？　何ですって？"
+      ],
+      "translated_lines": [
+        "是万宝槌啊……",
+        "……哎！？你说什么？"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "そうだ！　物言わぬ道具に",
+        "夢幻の力を与える秘宝だ！"
+      ],
+      "translated_lines": [
+        "没错！这是向不懂人语的道具",
+        "灌输梦幻之力的秘宝！"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "|48,10,こづち",
+        "さあ、秘宝よ！",
+        "|126,8,レジスタンス",
+        "迷える子羊を我ら反逆者の下に導き給え！"
+      ],
+      "translated_lines": [
+        "|49,16,小槌",
+        "来吧，秘宝哟！",
+        "|177,16,起义军",
+        "将迷途的羔羊引导至我们叛逆者这边吧！"
+      ]
+    }
+  }
+}

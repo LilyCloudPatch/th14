@@ -1,0 +1,321 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/e01.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　博麗神社。"
+      ],
+      "translated_lines": [
+        "　　博丽神社。"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　幻想郷の東の境に位置する神社である。"
+      ],
+      "translated_lines": [
+        "　　坐落于幻想乡东部边境的神社。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "霊夢　「やっと、お祓い棒が大人しくなってきたわ」"
+      ],
+      "translated_lines": [
+        "灵梦　「终于，驱魔棒变得老实了呢」"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "魔理沙「実はうちのミニ八卦炉も暴走してたんだが、"
+      ],
+      "translated_lines": [
+        "魔理沙「实际上我家的迷你八卦炉也暴走来着，"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "　　　　お前も同じような事で悩んでいたとはな。"
+      ],
+      "translated_lines": [
+        "　　　　想不到你也有着同样的烦恼呢。"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "　　　　まさか打ち出の小槌の力だったとか……」"
+      ],
+      "translated_lines": [
+        "　　　　这居然是因为万宝槌的力量啊……」"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "霊夢　「本当は自分だけ強くなって下克上をする",
+        "　　　　予定だったらしいけど"
+      ],
+      "translated_lines": [
+        "灵梦　「其实原本只是计划着自己变强",
+        "　　　　而进行下克上"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "　　　　その代償に、凶暴化する魔力が振りまかれたんだってさ」"
+      ],
+      "translated_lines": [
+        "　　　　但作为代价，却散播出了会凶暴化的魔力」"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "魔理沙「小槌の魔力の所為で、普段大人しい妖怪が暴れたり",
+        "　　　　道具が勝手に動き出したりしてたのか……どうりで」"
+      ],
+      "translated_lines": [
+        "魔理沙「因为万宝槌的魔力，平常温顺老实的妖怪开始大闹",
+        "　　　　道具也开始自己行动起来了……难怪」"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "霊夢　「どうりで？」"
+      ],
+      "translated_lines": [
+        "灵梦　「难怪？」"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "魔理沙「ミニ八卦炉を持ってたら何だか気がどす黒くなってな。"
+      ],
+      "translated_lines": [
+        "魔理沙「一拿起迷你八卦炉就感觉黑化了一样。"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "　　　　何でも良いから炙りたくなったんだよ。"
+      ],
+      "translated_lines": [
+        "　　　　不管什么都好都想烤一烤呢。"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "　　　　あれはその魔力の影響だったんだな」"
+      ],
+      "translated_lines": [
+        "　　　　原来那是受了那个魔力的影响啊」"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "霊夢　「ふーん、私はお祓い棒を持っても何とも思わなかったけど」"
+      ],
+      "translated_lines": [
+        "灵梦　「是吗，我拿着驱魔棒的时候什么想法都没有呢」"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "魔理沙「ほんとか？　そう……なのか」"
+      ],
+      "translated_lines": [
+        "魔理沙「真的吗？　是这样……吗」"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "魔理沙「で、その妖怪はどうなったんだ？"
+      ],
+      "translated_lines": [
+        "魔理沙「那么，那个妖怪怎么样了？"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "　　　　確か一寸法師と天邪鬼だっけ？」"
+      ],
+      "translated_lines": [
+        "　　　　记得是一寸法师和天邪鬼？」"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "霊夢　「それがねー。"
+      ],
+      "translated_lines": [
+        "灵梦　「那个啊～。"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "　　　　天邪鬼の行方は知らないけど……」"
+      ],
+      "translated_lines": [
+        "　　　　虽然不知道天邪鬼的去向……」"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "針妙丸「おおお、揺れる揺れる。地震なのー？」"
+      ],
+      "translated_lines": [
+        "针妙丸「哦哦哦，摇得好厉害。地震了吗～？」"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "霊夢　「寝てたでしょ」"
+      ],
+      "translated_lines": [
+        "灵梦　「你刚才在睡觉吧」"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "魔理沙「え！？　まさかそいつが今回の異変を起こした奴なのか？」"
+      ],
+      "translated_lines": [
+        "魔理沙「哎！？　难道说引起这次的异变就是这个家伙吗？」"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "霊夢　「打ち出の小槌の力を使いすぎて暫くは",
+        "　　　　大きくなれないんだってさ」"
+      ],
+      "translated_lines": [
+        "灵梦　「据说过度使用了万宝槌的力量",
+        "　　　　暂时无法变大了呢」"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "針妙丸「そうなんですー。"
+      ],
+      "translated_lines": [
+        "针妙丸「是这样的～。"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "　　　　思ったより代償がきつくてですねぇ」"
+      ],
+      "translated_lines": [
+        "　　　　代价比想象中的还要大呢～」"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "魔理沙「そうか……"
+      ],
+      "translated_lines": [
+        "魔理沙「是吗……"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "　　　　それにしても虫扱いだなんてちょっと酷くないか？」"
+      ],
+      "translated_lines": [
+        "　　　　但是将她当做虫子对待不觉得有点过分么？」"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "霊夢　「違うのよ。"
+      ],
+      "translated_lines": [
+        "灵梦　「不是啦。"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "　　　　他の虫や獣から守る為に虫かごに入れてるの」"
+      ],
+      "translated_lines": [
+        "　　　　为免受其他虫子或野兽的袭击才把她放进虫笼里的」"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "針妙丸「いやー気遣い助かりますぅ」"
+      ],
+      "translated_lines": [
+        "针妙丸「哎呀～能够被如此担心真是得救了～」"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "　　一寸法師は蓄えてきた力を全て放出し、また小さい姿に戻って",
+        "　　しまった。暫くはその姿のままであろう。"
+      ],
+      "translated_lines": [
+        "　　一寸法师释放了积蓄的全部力量，再次变回了小小的",
+        "　　身姿。暂时只能保持这个样子了吧。"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "　　打ち出の小槌は、力を放出しきると今度は回収にまわる。"
+      ],
+      "translated_lines": [
+        "　　万宝槌的魔力在全部释放完毕后，就会开始回收。"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "　　徐々に道具や、弱き妖怪達から力が抜けていくと思われる。"
+      ],
+      "translated_lines": [
+        "　　渐渐地，那些道具和弱小的妖怪们的力量也会消失吧。"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "　　それまで針妙丸は、名通りの一寸法師であろう。"
+      ],
+      "translated_lines": [
+        "　　在那之前，针妙丸就真的是名副其实的一寸法师了。"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "　　霊夢が彼女をかばっていたのは弱者に対する後ろめたさか。"
+      ],
+      "translated_lines": [
+        "　　灵梦会包庇她或许是由于对弱者的歉疚吧。"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "　　しかし小さき妖怪を見ても下克上を企むほど屈折している",
+        "　　様には見えなかった。"
+      ],
+      "translated_lines": [
+        "　　但是看着那小小妖怪的身影，怎样也看不出",
+        "　　她已委屈到企图下克上的地步。"
+      ]
+    },
+    "text-036": {
+      "original_lines": [
+        "　　Ending　No.01　　虫かごの一寸法師"
+      ],
+      "translated_lines": [
+        "　　Ending　No.01　　虫笼里的一寸法师"
+      ]
+    },
+    "text-037": {
+      "original_lines": [
+        "　　　　　オールクリアおめでとう！　クールだね！"
+      ],
+      "translated_lines": [
+        "　　　　　恭喜全部通关！　真酷！"
+      ]
+    }
+  }
+}

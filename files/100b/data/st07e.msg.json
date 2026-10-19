@@ -1,0 +1,351 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st07e.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "もうこの妖剣は使わないと",
+        "決めたんだけど……"
+      ],
+      "translated_lines": [
+        "我虽然已经决定",
+        "不再使用这把妖剑了……"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "小槌の魔力を受けた妖怪を退ける",
+        "目的なら仕方が無いわね"
+      ],
+      "translated_lines": [
+        "但如果是为了击退受小槌魔力影响的妖怪",
+        "就没办法了"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "ようやく来たわね",
+        "人間のメイドよ"
+      ],
+      "translated_lines": [
+        "终于来了呢",
+        "人类的女仆啊"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "打ち出の小槌の件は",
+        "私の耳にも届いているわ"
+      ],
+      "translated_lines": [
+        "万宝槌那件事",
+        "也传到我的耳朵里了"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "あらそうでしたか"
+      ],
+      "translated_lines": [
+        "哎呀是这样吗"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "なら何をしに来たのか",
+        "判りますね？"
+      ],
+      "translated_lines": [
+        "那么你应该知道",
+        "我是来干什么的吧？"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "小槌の魔力の後片付けに来た",
+        "って事でしょう？"
+      ],
+      "translated_lines": [
+        "你是来给",
+        "小槌的魔力善后的吧？"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "でももう手遅れよ"
+      ],
+      "translated_lines": [
+        "但是你已经来迟了"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "手遅れ？"
+      ],
+      "translated_lines": [
+        "迟了？"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "もう私に打ち出の小槌の魔力なんて",
+        "必要ないの"
+      ],
+      "translated_lines": [
+        "我已经不再需要",
+        "万宝槌的魔力了"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "呪われた小槌の魔力を抜いて",
+        "魔力を取り替えたのよ"
+      ],
+      "translated_lines": [
+        "我排除了被诅咒的小槌的魔力",
+        "替换了魔力"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "取り替えた……ですって？",
+        "そんなことが出来るの？　付喪神に……"
+      ],
+      "translated_lines": [
+        "你说……替换了？",
+        "这种事可能吗？对于付丧神来说……"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "あらあら",
+        "付喪神だから簡単に出来るのよ？"
+      ],
+      "translated_lines": [
+        "哎呀哎呀",
+        "正因为是付丧神才不难做到哦？"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "何故なら道具は使用者を変えれば",
+        "魔力が変わるんだからね"
+      ],
+      "translated_lines": [
+        "因为道具只要使用者一变",
+        "魔力也会随之变化"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "さあ試すとするか",
+        "私の新しい魔力を"
+      ],
+      "translated_lines": [
+        "那就来试试吧",
+        "我全新的魔力"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "|113,11,ドラマー",
+        "さあ外の世界の使役者よ！",
+        "魂のビートで始原の感情を呼び覚ませ！"
+      ],
+      "translated_lines": [
+        "|136,17,鼓手",
+        "来吧，外面世界的使用者啊！",
+        "用灵魂的节拍唤醒原初的感情吧！"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "あらららら",
+        "降参よー"
+      ],
+      "translated_lines": [
+        "哎呀呀呀呀",
+        "我投降～"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "ふう",
+        "強かったわ"
+      ],
+      "translated_lines": [
+        "呼　",
+        "真强啊"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "ちょっと気軽に退治するレベルじゃ",
+        "無かったわね"
+      ],
+      "translated_lines": [
+        "不是那种",
+        "能轻易退治的级别呢"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "まだ新しい魔力が使いこなせてない",
+        "のかな"
+      ],
+      "translated_lines": [
+        "可能还无法对新的魔力",
+        "运用自如吧"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "ところでさっき",
+        "魔力を取り替えたって言ってましたね"
+      ],
+      "translated_lines": [
+        "话说你刚才说",
+        "你替换了魔力"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "そうよ道具の使用者を変えたって事だけど"
+      ],
+      "translated_lines": [
+        "没错，就是指改变了道具的使用者"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "例えばですけど"
+      ],
+      "translated_lines": [
+        "举例来说"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "小槌の魔力に冒されて",
+        "勝手に暴れる剣があったりして"
+      ],
+      "translated_lines": [
+        "如果有把剑受到了小槌的魔力的侵蚀",
+        "而变得会自动暴走"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "その剣の使用者が変わった場合",
+        "魔力は入れ替わる……って事かしら？"
+      ],
+      "translated_lines": [
+        "如果那把剑的使用者改变了",
+        "魔力就会被替换……是这样吗？"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "うーんとねぇ……",
+        "強靱な精神を持っていればそうなるわね"
+      ],
+      "translated_lines": [
+        "嗯～这个嘛……",
+        "只要有强韧的精神就会的"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "ただし　入れ替わるんだから",
+        "|100,14,あなた",
+        "小槌の魔力は使用者に降りかかるわ"
+      ],
+      "translated_lines": [
+        "但是，因为是替换",
+        "|177,16,你",
+        "所以小槌的魔力会落在使用者的身上"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "だ　誰も私の事だなんて言ってないわよ"
+      ],
+      "translated_lines": [
+        "我，我可没说指的是我啊"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "隠したって判るわよ",
+        "その手の剣……苦しんでいるもの"
+      ],
+      "translated_lines": [
+        "你不说我也知道",
+        "你手里的剑……十分痛苦啊"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "……魔力の解放のしかた",
+        "もっと詳しく聞く？"
+      ],
+      "translated_lines": [
+        "……你想再详细听听",
+        "解放魔力的方法吗？"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "うーん",
+        "どうしようかなぁ"
+      ],
+      "translated_lines": [
+        "嗯～",
+        "怎么办呢"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "やっぱ遠慮しておくわ"
+      ],
+      "translated_lines": [
+        "还是算了"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "あらなんで？"
+      ],
+      "translated_lines": [
+        "哎呀为什么？"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "私の魔力で付喪神化したら",
+        "強くなり過ぎるもの……"
+      ],
+      "translated_lines": [
+        "因为假如用我的魔力令它付丧神化",
+        "它就会变得过强了……"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "悪いけどここで足止めさせてもらうよ"
+      ],
+      "translated_lines": [
+        "虽然不好意思，但我们要在这里阻止你"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "鎮魂ライブの始まり始まりー！"
+      ],
+      "translated_lines": [
+        "镇魂演出就此开演就此开演～！"
+      ]
+    }
+  }
+}

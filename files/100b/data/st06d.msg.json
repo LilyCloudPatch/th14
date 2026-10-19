@@ -1,0 +1,204 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st06d.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "外はすっかり晴れたようだな",
+        "清々しいぜ"
+      ],
+      "translated_lines": [
+        "外面已经完全放晴了啊",
+        "真是清爽"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "こんな所に居る奴が",
+        "下克上とか考えるもんかな"
+      ],
+      "translated_lines": [
+        "居住在这种地方的家伙",
+        "会考虑下克上之类的吗"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "だーれ？"
+      ],
+      "translated_lines": [
+        "谁～呀？"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "あら巷で有名な魔法使いさん"
+      ],
+      "translated_lines": [
+        "哎呀，家喻户晓的魔法使小姐"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "来るべき時が来たのね"
+      ],
+      "translated_lines": [
+        "真是说曹操曹操到呢"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "お前が下克上を企んでいるのか",
+        "そんなこと許さないぞ！"
+      ],
+      "translated_lines": [
+        "是你在企图下克上吗",
+        "那种事情我可不允许！"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "|45,7,しょうがい",
+        "最初の障碍が百戦錬磨の貴方とはね"
+      ],
+      "translated_lines": [
+        "第一个障碍就是百战磨练过的你呢"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "だが諦めないよ！"
+      ],
+      "translated_lines": [
+        "但我不会放弃的！"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "小人の一族がどのような",
+        "屈辱を味わって来たのか"
+      ],
+      "translated_lines": [
+        "我们小人一族一路走来",
+        "经历了怎样的屈辱"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "貴方達に判らせるまで！"
+      ],
+      "translated_lines": [
+        "一定要让你们感同身受！"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "お前は小人だったのか……",
+        "小さくは見えないが"
+      ],
+      "translated_lines": [
+        "原来你是小人啊……",
+        "虽然看起来一点也不小"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "大きくなる力を得た今こそ",
+        "|142,8,チャンス",
+        "世界をひっくり返す好機なのよ！"
+      ],
+      "translated_lines": [
+        "得到了巨大的力量的现在",
+        "正是颠覆世界的好时机！"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "ふん　小人になんて負ける筈が無い"
+      ],
+      "translated_lines": [
+        "哼，我才不可能输给小人"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "大体　自分が弱いって判ってるから",
+        "下克上って言ってるんだよな"
+      ],
+      "translated_lines": [
+        "一般来说，是明知自己弱小",
+        "才会说出下克上这种话的吧"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "かかってこい！",
+        "私は決して弱い者になんか負けないぜ！"
+      ],
+      "translated_lines": [
+        "放马过来吧！",
+        "我可绝不会输给弱者！"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "あはははは",
+        "やはり強者と弱者は相容れない……か"
+      ],
+      "translated_lines": [
+        "啊哈哈哈哈",
+        "果然强者和弱者水火不容……吗"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "だが私の手には夢幻の力がある"
+      ],
+      "translated_lines": [
+        "我的手中掌握着梦幻之力"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "|160,10,こづち",
+        "それが秘宝『打ち出の小槌』！"
+      ],
+      "translated_lines": [
+        "那就是秘宝『万宝槌』！"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "打ち出の……小槌だと！？",
+        "あの何でも願いを叶えるという……！？"
+      ],
+      "translated_lines": [
+        "你说……万宝槌！？",
+        "就是那个据说可以实现任何愿望的……！？"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "あわてふためくがいい",
+        "私には逃げ惑う強者の姿が見える"
+      ],
+      "translated_lines": [
+        "尽管惊慌失措吧",
+        "我已经能看到强者们仓皇逃窜的身影了"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "|48,10,こづち",
+        "さあ、秘宝よ！",
+        "哀れな弱者に夢幻の力を与え給え！"
+      ],
+      "translated_lines": [
+        "|49,16,小槌",
+        "来吧，秘宝啊！",
+        "赐给可怜无助的弱者以梦幻的力量吧！"
+      ]
+    }
+  }
+}

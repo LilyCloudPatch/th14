@@ -1,0 +1,221 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/e03.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　瘴気漂う魔法の森。"
+      ],
+      "translated_lines": [
+        "　　瘴气飘荡的魔法之森。"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　魔理沙の家はここにある。"
+      ],
+      "translated_lines": [
+        "　　魔理沙的家就在这里。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "魔理沙「ふっふっふ、そうか世界をひっくり返すか」"
+      ],
+      "translated_lines": [
+        "魔理沙「呵呵呵，是吗颠覆世界吗」"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "　"
+      ],
+      "translated_lines": [
+        "　"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "　　ミニ八卦炉が黒い光を放っている。"
+      ],
+      "translated_lines": [
+        "　　迷你八卦炉闪耀着黑色光芒。"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "　"
+      ],
+      "translated_lines": [
+        "　"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "魔理沙「それも悪くないな……」"
+      ],
+      "translated_lines": [
+        "魔理沙「听起来也不坏……」"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "魔理沙「人間が妖怪に怯えて暮す時代はもう終わりだぜ。"
+      ],
+      "translated_lines": [
+        "魔理沙「人类惧怕着妖怪生活的时代也告一段落了。"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "　　　　これからは人間が支配するのだ。"
+      ],
+      "translated_lines": [
+        "　　　　从今往后就是人类支配一切的时代了。"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "　　　　このミニ八卦炉さえあれば怖れる物は無い！」"
+      ],
+      "translated_lines": [
+        "　　　　只要有这迷你八卦炉就再也没什么好怕的了！」"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "正邪　「さあ人間よ、思う存分力を発揮したまえ！」"
+      ],
+      "translated_lines": [
+        "正邪　「来吧人类，尽情发挥你的力量吧！」"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "魔理沙「言われんでも！"
+      ],
+      "translated_lines": [
+        "魔理沙「这还用你说！"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "　　　　でも、燃費はそんなに良くないからなぁ……」"
+      ],
+      "translated_lines": [
+        "　　　　不过，这东西的能耗不太乐观……」"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "正邪　「案ずるな。"
+      ],
+      "translated_lines": [
+        "正邪　「怕什么。"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "　　　　お前のミニ八卦炉には秘宝の加護がある」"
+      ],
+      "translated_lines": [
+        "　　　　你的迷你八卦炉有秘宝的加护」"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "正邪　「常に夢幻の力が得られよう」"
+      ],
+      "translated_lines": [
+        "正邪　「可以一直使出梦幻般的力量了」"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "魔理沙「そうか、じゃあ試させてもらうとするか」"
+      ],
+      "translated_lines": [
+        "魔理沙「这样啊，那就来试试吧」"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "正邪　「ふっふっふ、心強い味方が出来たもんだ。"
+      ],
+      "translated_lines": [
+        "正邪　「呵呵呵，真是拉拢到一个让人放心的同伴。"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "　　　　これなら世界がひっくり返るのも時間の問題だな」"
+      ],
+      "translated_lines": [
+        "　　　　这下颠覆世界也只是时间的问题了」"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "　　ミニ八卦炉は打ち出の小槌の魔力により、付喪神化していた。"
+      ],
+      "translated_lines": [
+        "　　迷你八卦炉受万宝槌的魔力影响，变成了付丧神。"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "　　その魔力は凶暴性を煽るものであり、長期間触れていた魔理沙も",
+        "　　正常な判断を失っていた。"
+      ],
+      "translated_lines": [
+        "　　而那魔力会煽动起人的凶暴一面，长时间暴露其下的魔理沙也",
+        "　　失去了正常的判断力。"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "　　正邪はいくつかの付喪神や、魔理沙みたいな人間、妖怪を味方に",
+        "　　付けて勢力を伸ばしつつある。"
+      ],
+      "translated_lines": [
+        "　　正邪就这样将许多付丧神、像魔理沙这样的人类、妖怪",
+        "　　拉拢成了同伴，一点点扩张着势力。"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "　　しかし打ち出の小槌の魔力は無限ではなかった。"
+      ],
+      "translated_lines": [
+        "　　不过万宝槌的魔力并非无穷无尽。"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "　　魔力が尽きれば反動がその身に押し寄せてくる事を",
+        "　　正邪はまだ知らなかった。"
+      ],
+      "translated_lines": [
+        "　　魔力耗尽之时反噬也会随之而来",
+        "　　正邪尚未知晓这一点。"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "　　Ending　No.03　　反逆の魔理沙って、誰に反逆するの？"
+      ],
+      "translated_lines": [
+        "　　Ending　No.03　　叛逆的魔理沙，究竟是要叛逆谁呢？"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "　　　　　オールクリアおめでとう！　クールだね！"
+      ],
+      "translated_lines": [
+        "　　　　　恭喜全部通关！　真酷！"
+      ]
+    }
+  }
+}

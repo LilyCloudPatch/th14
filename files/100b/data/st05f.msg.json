@@ -1,0 +1,362 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st05f.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "何だ？",
+        "お前は"
+      ],
+      "translated_lines": [
+        "怎么？",
+        "你是谁"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "ここはお前達のような人間が",
+        "来る場所ではない"
+      ],
+      "translated_lines": [
+        "这里可不是你们这样的人类",
+        "可以来的地方"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "即刻立ち去れい！"
+      ],
+      "translated_lines": [
+        "速速离去！"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "ここに来たら道具が力を",
+        "持てると聞きました"
+      ],
+      "translated_lines": [
+        "我听说到这里",
+        "道具就会拥有力量"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "その話を詳しく",
+        "聞きたいのですが……"
+      ],
+      "translated_lines": [
+        "关于这件事情",
+        "我想详细地了解下……"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "誰だ？",
+        "そんな適当な噂を流している奴は"
+      ],
+      "translated_lines": [
+        "谁啊？",
+        "没事到处散播这种流言"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "まあ当たらずとも遠からず……",
+        "だが"
+      ],
+      "translated_lines": [
+        "虽不中亦不远矣……",
+        "不过"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "|132,14,・・",
+        "それはあくまでも代償の所為だ"
+      ],
+      "translated_lines": [
+        "|145,16,··",
+        "归根结底那只是因为代价"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "今まで大人しかった妖怪に",
+        "力を与えたり"
+      ],
+      "translated_lines": [
+        "我听说会对老实的妖怪",
+        "给予力量"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "道具にまで力を与えたり",
+        "しているって聞いたけど"
+      ],
+      "translated_lines": [
+        "甚至有时连道具",
+        "都会得到力量"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "そうか……地上でもそんな",
+        "変化が起きているのか"
+      ],
+      "translated_lines": [
+        "是吗……连地面上",
+        "都发生那种变化了么"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "もっと調査が必要だな",
+        "代償の"
+      ],
+      "translated_lines": [
+        "看来还要再调查下啊",
+        "对代价"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "ええい　じれったい！",
+        "何を企んでいるのか言いなさい！"
+      ],
+      "translated_lines": [
+        "哎，真是急人！",
+        "快说你们究竟打的什么主意！"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "まあ人間になら話しても",
+        "良いだろう"
+      ],
+      "translated_lines": [
+        "这话就算对人类说了",
+        "也没关系"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "|55,17,レジスタンス",
+        "我々はひっくり返す者だ",
+        "幻想郷の勢力図を塗り替えてやる"
+      ],
+      "translated_lines": [
+        "|49,17,起义军",
+        "我们是颠覆者",
+        "我们要改写幻想乡的势力图"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "どのみち人間は被支配者だがな"
+      ],
+      "translated_lines": [
+        "不管怎样人类都是被支配者"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "レジスタンス！？"
+      ],
+      "translated_lines": [
+        "起义军！？"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "さっきのお琴が言っていた",
+        "世界を支配するってのは本当だったのね"
+      ],
+      "translated_lines": [
+        "刚才那把琴所说的",
+        "支配世界之事看来是真的呢"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "どうだ？",
+        "理解したならここを去るが良い"
+      ],
+      "translated_lines": [
+        "怎么样？",
+        "明白的话就赶紧离开这里吧"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "人間にとっては今より",
+        "居心地の良い世界にしてやるよ"
+      ],
+      "translated_lines": [
+        "我们会创造出",
+        "对于人类更为理想的世界来哦"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "残念ね",
+        "私は支配者側にいる人間なの"
+      ],
+      "translated_lines": [
+        "遗憾呢",
+        "我是站在支配者一侧的人类"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "レジスタンスという事は",
+        "私達に対しての反逆という事よ"
+      ],
+      "translated_lines": [
+        "所谓起义军",
+        "便意味着对我们逆反哦"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "そうか……",
+        "それは驚きだ"
+      ],
+      "translated_lines": [
+        "是么……",
+        "那还真是令人惊讶"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "|132,14,いか",
+        "我ら力弱き者達が如何に",
+        "虐げられていたか"
+      ],
+      "translated_lines": [
+        "我们弱者是如何被",
+        "凌虐的"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "お前達には判るまい",
+        "……ならば"
+      ],
+      "translated_lines": [
+        "你们是想象不到的吧",
+        "……这样的话"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "何もかもひっくり返る逆さ城で",
+        "弱者の屈辱を味わうがいい！"
+      ],
+      "translated_lines": [
+        "就在这万物颠倒的倒立城",
+        "体味弱者的屈辱吧！"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "くう",
+        "なんてこった"
+      ],
+      "translated_lines": [
+        "咕　",
+        "怎么会这样"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "時期尚早だったか"
+      ],
+      "translated_lines": [
+        "现在还为时尚早吗"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "幻想郷を混乱に陥れると",
+        "いうなら容赦しないわ"
+      ],
+      "translated_lines": [
+        "若想让幻想乡陷入混乱",
+        "我是不会被饶你的"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "まあ　その程度の腕では",
+        "何も出来ないでしょうけど"
+      ],
+      "translated_lines": [
+        "不过，只是这种程度的话",
+        "倒也闹不出什么事来"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "まだだ",
+        "まだ始まったばかりだ"
+      ],
+      "translated_lines": [
+        "还没完",
+        "这才是刚开始而已"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "|84,14,・・",
+        "我らの手に秘宝がある限り",
+        "いくらでも強くなれるだろう"
+      ],
+      "translated_lines": [
+        "|33,16,··",
+        "只要秘宝还在我等手中",
+        "不管多强的力量都可以获得"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "……多少の代償に目を瞑れば"
+      ],
+      "translated_lines": [
+        "……只要不在乎会付出什么代价"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "あっ……"
+      ],
+      "translated_lines": [
+        "啊……"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "ここでは一息置いて",
+        "逃がすのが得策ね"
+      ],
+      "translated_lines": [
+        "这里姑且先放她逃走",
+        "才是上策呢"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "|4,14,・・",
+        "我らって言ってたし　一人の仕業",
+        "じゃない事は明白なんだから"
+      ],
+      "translated_lines": [
+        "|65,16,··",
+        "既然会说我等，那就很明白",
+        "这不是一个人的所作所为"
+      ]
+    }
+  }
+}

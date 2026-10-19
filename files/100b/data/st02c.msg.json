@@ -1,0 +1,159 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st02c.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "こんなところにも",
+        "妖怪が出たか"
+      ],
+      "translated_lines": [
+        "这种地方",
+        "也出现妖怪了吗"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "柳の下なんて幽霊の旦那の",
+        "指定席だと思ってたが"
+      ],
+      "translated_lines": [
+        "我还以为柳树下",
+        "都是幽灵老兄的指定席"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "意外と沢山居るのよ"
+      ],
+      "translated_lines": [
+        "意外地有很多哦"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "人里近くに住む妖怪も"
+      ],
+      "translated_lines": [
+        "住在人类村庄附近的妖怪也是"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "おっと",
+        "さっきも会ったな"
+      ],
+      "translated_lines": [
+        "哎哟",
+        "刚才也遇到你了"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "私も見ても怖がらない",
+        "なんて許さない"
+      ],
+      "translated_lines": [
+        "见到我也不害怕",
+        "这种事决不允许"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "お前程度の妖怪なんて",
+        "もう倒し飽きたからな"
+      ],
+      "translated_lines": [
+        "你这种程度的妖怪",
+        "我都已经打腻了"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "そんな傲慢が妖怪の",
+        "反逆を生む"
+      ],
+      "translated_lines": [
+        "那种傲慢",
+        "催生妖怪的反叛"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "夜も昼も恐怖で",
+        "歩けなくしてやる！"
+      ],
+      "translated_lines": [
+        "我要让你无论白天黑夜",
+        "都被吓得不敢行走！"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "な　なによあんた",
+        "強いじゃないのよ"
+      ],
+      "translated_lines": [
+        "你，你是什么人",
+        "这不是很强吗"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "当たり前だ",
+        "弱かったら寝てる"
+      ],
+      "translated_lines": [
+        "当然了",
+        "我要是很弱我就去睡觉了"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "さてと……悪い子には",
+        "死のお仕置きをしないとな"
+      ],
+      "translated_lines": [
+        "那么……对于坏孩子",
+        "应该给予死亡的惩罚"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "あーいや",
+        "うん"
+      ],
+      "translated_lines": [
+        "啊～不",
+        "嗯　"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "最近の人間はバンカラなのねー！"
+      ],
+      "translated_lines": [
+        "最近的人类好野蛮啊～！"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "逃げたか……"
+      ],
+      "translated_lines": [
+        "跑了吗……"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "八卦炉で炙ってやろうと",
+        "思ったのだが"
+      ],
+      "translated_lines": [
+        "我还想用八卦炉",
+        "烤烤她来着"
+      ]
+    }
+  }
+}

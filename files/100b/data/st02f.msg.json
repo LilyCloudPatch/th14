@@ -1,0 +1,131 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st02f.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "こんな人里の近くにも",
+        "暴れる妖怪が……"
+      ],
+      "translated_lines": [
+        "离人类村庄这么近的地方",
+        "也有大闹的妖怪……"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "幻想郷の平和なんて",
+        "砂上のバベルみたいなもんね"
+      ],
+      "translated_lines": [
+        "幻想乡的和平",
+        "也就像是沙上的巴别塔吧"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "早速現れたわね"
+      ],
+      "translated_lines": [
+        "这么快就出现了呢"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "私を退治しに来たというの？"
+      ],
+      "translated_lines": [
+        "是来退治我的吗？"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "ええ　まあ"
+      ],
+      "translated_lines": [
+        "是啊，差不多"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "暴れる妖怪を大人しくしろ",
+        "との命を受けましたので"
+      ],
+      "translated_lines": [
+        "因为我受命镇压",
+        "那些暴动的妖怪"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "無駄よ無駄",
+        "いまさら来たって"
+      ],
+      "translated_lines": [
+        "没用的没用的",
+        "即使你现在过来了"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "|30,8,ようかい",
+        "もう私達の逆襲は",
+        "始まっているのよ！"
+      ],
+      "translated_lines": [
+        "|2,16,妖怪",
+        "我们的反攻",
+        "已经开始了！"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "な　なによあんた",
+        "強いじゃないのよ"
+      ],
+      "translated_lines": [
+        "你，你是什么人",
+        "这不是很强吗"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "弱いだなんて一度でも",
+        "言いました？"
+      ],
+      "translated_lines": [
+        "我什么时候说过",
+        "我弱了？"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "く　くやしいけど",
+        "ここは大人しく退くか……"
+      ],
+      "translated_lines": [
+        "虽，虽然很不甘心",
+        "但现在只好老老实实地撤退……"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "そう……大人しくしていれば",
+        "誰も危害を与えないはず"
+      ],
+      "translated_lines": [
+        "没错……只要老老实实的呆着",
+        "就不会有人加害于你"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "……巫女以外は"
+      ],
+      "translated_lines": [
+        "……除了巫女"
+      ]
+    }
+  }
+}

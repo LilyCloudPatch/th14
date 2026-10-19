@@ -1,0 +1,73 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/e10.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　魔理沙の家。"
+      ],
+      "translated_lines": [
+        "　　魔理沙的家。"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　魔理沙の心は打ち砕かれていた。"
+      ],
+      "translated_lines": [
+        "　　魔理沙的内心动摇着。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "魔理沙「駄目だ駄目だ。"
+      ],
+      "translated_lines": [
+        "魔理沙「不行不行。"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "　　　　ミニ八卦炉無しではとても敵いそうに無いぜ」"
+      ],
+      "translated_lines": [
+        "　　　　没有迷你八卦炉的话根本没法和敌人对抗啊」"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "　　魔理沙は強力な打ち出の小槌に打ちのめされていた。"
+      ],
+      "translated_lines": [
+        "　　魔理沙被强大的万宝槌打倒了。"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "　　しかし現在ミニ八卦炉の力も借りたくない……筈。"
+      ],
+      "translated_lines": [
+        "　　但是现在也不想借用迷你八卦炉的力量……吧？"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "　",
+        "　　Ending　No.10　　序盤で残機を増やそう！"
+      ],
+      "translated_lines": [
+        "　",
+        "　　Ending　No.10　　在初期阶段就积累残机吧！"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "　　ノーコンティニューでクリアを目指せ！"
+      ],
+      "translated_lines": [
+        "　　以不续关通关为目标努力吧！"
+      ]
+    }
+  }
+}

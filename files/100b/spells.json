@@ -1,0 +1,495 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "lilypatch/th14/spells",
+  "entries": {
+    "name-000": {
+      "original_lines": [
+        "氷符「アルティメットブリザード」"
+      ],
+      "translated_lines": [
+        "冰符「Ultimate Blizzard」"
+      ]
+    },
+    "name-001": {
+      "original_lines": [
+        "水符「テイルフィンスラップ」"
+      ],
+      "translated_lines": [
+        "水符「Tail Fin Slap」"
+      ]
+    },
+    "name-002": {
+      "original_lines": [
+        "鱗符「スケールウェイブ」"
+      ],
+      "translated_lines": [
+        "鳞符「Scale Wave」"
+      ]
+    },
+    "name-003": {
+      "original_lines": [
+        "鱗符「逆鱗の荒波」"
+      ],
+      "translated_lines": [
+        "鳞符「逆鳞的惊涛」"
+      ]
+    },
+    "name-004": {
+      "original_lines": [
+        "鱗符「逆鱗の大荒波」"
+      ],
+      "translated_lines": [
+        "鳞符「逆鳞的大惊涛」"
+      ]
+    },
+    "name-005": {
+      "original_lines": [
+        "飛符「フライングヘッド」"
+      ],
+      "translated_lines": [
+        "飞符「Flying Head」"
+      ]
+    },
+    "name-006": {
+      "original_lines": [
+        "首符「クローズアイショット」"
+      ],
+      "translated_lines": [
+        "首符「Close-Eye Shot」"
+      ]
+    },
+    "name-007": {
+      "original_lines": [
+        "首符「ろくろ首飛来」"
+      ],
+      "translated_lines": [
+        "首符「辘轳首飞来」"
+      ]
+    },
+    "name-008": {
+      "original_lines": [
+        "飛頭「マルチプリケイティブヘッド」"
+      ],
+      "translated_lines": [
+        "飞头「Multiplicative Head」"
+      ]
+    },
+    "name-009": {
+      "original_lines": [
+        "飛頭「セブンズヘッド」"
+      ],
+      "translated_lines": [
+        "飞头「Seventh Head」"
+      ]
+    },
+    "name-010": {
+      "original_lines": [
+        "飛頭「ナインズヘッド」"
+      ],
+      "translated_lines": [
+        "飞头「Ninth Head」"
+      ]
+    },
+    "name-011": {
+      "original_lines": [
+        "飛頭「デュラハンナイト」"
+      ],
+      "translated_lines": [
+        "飞头「Dullahan Night」"
+      ]
+    },
+    "name-012": {
+      "original_lines": [
+        "牙符「月下の犬歯」"
+      ],
+      "translated_lines": [
+        "牙符「月下的犬齿」"
+      ]
+    },
+    "name-013": {
+      "original_lines": [
+        "変身「トライアングルファング」"
+      ],
+      "translated_lines": [
+        "变身「Triangle Fang」"
+      ]
+    },
+    "name-014": {
+      "original_lines": [
+        "変身「スターファング」"
+      ],
+      "translated_lines": [
+        "变身「Star Fang」"
+      ]
+    },
+    "name-015": {
+      "original_lines": [
+        "咆哮「ストレンジロア」"
+      ],
+      "translated_lines": [
+        "咆哮「Strange Roar」"
+      ]
+    },
+    "name-016": {
+      "original_lines": [
+        "咆哮「満月の遠吠え」"
+      ],
+      "translated_lines": [
+        "咆哮「满月的远吠」"
+      ]
+    },
+    "name-017": {
+      "original_lines": [
+        "狼符「スターリングパウンス」"
+      ],
+      "translated_lines": [
+        "狼符「Star Ring Pounce」"
+      ]
+    },
+    "name-018": {
+      "original_lines": [
+        "天狼「ハイスピードパウンス」"
+      ],
+      "translated_lines": [
+        "天狼「High-Speed Pounce」"
+      ]
+    },
+    "name-019": {
+      "original_lines": [
+        "平曲「祇園精舎の鐘の音」"
+      ],
+      "translated_lines": [
+        "平曲「祇园精舍的钟声」"
+      ]
+    },
+    "name-020": {
+      "original_lines": [
+        "怨霊「耳無し芳一」"
+      ],
+      "translated_lines": [
+        "怨灵「无耳芳一」"
+      ]
+    },
+    "name-021": {
+      "original_lines": [
+        "怨霊「平家の大怨霊」"
+      ],
+      "translated_lines": [
+        "怨灵「平家的大怨灵」"
+      ]
+    },
+    "name-022": {
+      "original_lines": [
+        "楽符「邪悪な五線譜」"
+      ],
+      "translated_lines": [
+        "乐符「邪恶的五线谱」"
+      ]
+    },
+    "name-023": {
+      "original_lines": [
+        "楽符「凶悪な五線譜」"
+      ],
+      "translated_lines": [
+        "乐符「凶恶的五线谱」"
+      ]
+    },
+    "name-024": {
+      "original_lines": [
+        "楽符「ダブルスコア」"
+      ],
+      "translated_lines": [
+        "乐符「Double Score」"
+      ]
+    },
+    "name-025": {
+      "original_lines": [
+        "琴符「諸行無常の琴の音」"
+      ],
+      "translated_lines": [
+        "琴符「诸行无常的琴声」"
+      ]
+    },
+    "name-026": {
+      "original_lines": [
+        "響符「平安の残響」"
+      ],
+      "translated_lines": [
+        "响符「平安的残响」"
+      ]
+    },
+    "name-027": {
+      "original_lines": [
+        "響符「エコーチェンバー」"
+      ],
+      "translated_lines": [
+        "响符「Echo Chamber」"
+      ]
+    },
+    "name-028": {
+      "original_lines": [
+        "箏曲「下克上送箏曲」"
+      ],
+      "translated_lines": [
+        "筝曲「下克上送筝曲」"
+      ]
+    },
+    "name-029": {
+      "original_lines": [
+        "箏曲「下克上レクイエム」"
+      ],
+      "translated_lines": [
+        "筝曲「下克上安魂曲」"
+      ]
+    },
+    "name-030": {
+      "original_lines": [
+        "欺符「逆針撃」"
+      ],
+      "translated_lines": [
+        "欺符「逆针击」"
+      ]
+    },
+    "name-031": {
+      "original_lines": [
+        "逆符「鏡の国の弾幕」"
+      ],
+      "translated_lines": [
+        "逆符「镜之国的弹幕」"
+      ]
+    },
+    "name-032": {
+      "original_lines": [
+        "逆符「イビルインザミラー」"
+      ],
+      "translated_lines": [
+        "逆符「Evil in the Mirror」"
+      ]
+    },
+    "name-033": {
+      "original_lines": [
+        "逆符「天地有用」"
+      ],
+      "translated_lines": [
+        "逆符「天地有用」"
+      ]
+    },
+    "name-034": {
+      "original_lines": [
+        "逆符「天下転覆」"
+      ],
+      "translated_lines": [
+        "逆符「天下翻覆」"
+      ]
+    },
+    "name-035": {
+      "original_lines": [
+        "逆弓「天壌夢弓」"
+      ],
+      "translated_lines": [
+        "逆弓「天壤梦弓」"
+      ]
+    },
+    "name-036": {
+      "original_lines": [
+        "逆弓「天壌夢弓の詔勅」"
+      ],
+      "translated_lines": [
+        "逆弓「天壤梦弓的诏敕」"
+      ]
+    },
+    "name-037": {
+      "original_lines": [
+        "逆転「リバースヒエラルキー」"
+      ],
+      "translated_lines": [
+        "逆转「Reverse Hierarchy」"
+      ]
+    },
+    "name-038": {
+      "original_lines": [
+        "逆転「チェンジエアブレイブ」"
+      ],
+      "translated_lines": [
+        "逆转「Change Air Brave」"
+      ]
+    },
+    "name-039": {
+      "original_lines": [
+        "小弾「小人の道」"
+      ],
+      "translated_lines": [
+        "小弹「小人的道路」"
+      ]
+    },
+    "name-040": {
+      "original_lines": [
+        "小弾「小人の茨道」"
+      ],
+      "translated_lines": [
+        "小弹「小人的荆棘路」"
+      ]
+    },
+    "name-041": {
+      "original_lines": [
+        "小槌「大きくなあれ」"
+      ],
+      "translated_lines": [
+        "小槌「变大吧」"
+      ]
+    },
+    "name-042": {
+      "original_lines": [
+        "小槌「もっと大きくなあれ」"
+      ],
+      "translated_lines": [
+        "小槌「变得更大吧」"
+      ]
+    },
+    "name-043": {
+      "original_lines": [
+        "妖剣「輝針剣」"
+      ],
+      "translated_lines": [
+        "妖剑「辉针剑」"
+      ]
+    },
+    "name-044": {
+      "original_lines": [
+        "小槌「お前が大きくなあれ」"
+      ],
+      "translated_lines": [
+        "小槌「你给我变大吧」"
+      ]
+    },
+    "name-045": {
+      "original_lines": [
+        "「進撃の小人」"
+      ],
+      "translated_lines": [
+        "「进击的小人」"
+      ]
+    },
+    "name-046": {
+      "original_lines": [
+        "「ウォールオブイッスン」"
+      ],
+      "translated_lines": [
+        "「一寸之壁」"
+      ]
+    },
+    "name-047": {
+      "original_lines": [
+        "「ホップオマイサムセブン」"
+      ],
+      "translated_lines": [
+        "「七个小拇指」"
+      ]
+    },
+    "name-048": {
+      "original_lines": [
+        "「七人の一寸法師」"
+      ],
+      "translated_lines": [
+        "「七个一寸法师」"
+      ]
+    },
+    "name-049": {
+      "original_lines": [
+        "弦楽「嵐のアンサンブル」"
+      ],
+      "translated_lines": [
+        "弦乐「风暴的合奏」"
+      ]
+    },
+    "name-050": {
+      "original_lines": [
+        "弦楽「浄瑠璃世界」"
+      ],
+      "translated_lines": [
+        "弦乐「净琉璃世界」"
+      ]
+    },
+    "name-051": {
+      "original_lines": [
+        "一鼓「暴れ宮太鼓」"
+      ],
+      "translated_lines": [
+        "一鼓「暴乱宫太鼓」"
+      ]
+    },
+    "name-052": {
+      "original_lines": [
+        "二鼓「怨霊アヤノツヅミ」"
+      ],
+      "translated_lines": [
+        "二鼓「怨灵绫鼓」"
+      ]
+    },
+    "name-053": {
+      "original_lines": [
+        "三鼓「午前零時のスリーストライク」"
+      ],
+      "translated_lines": [
+        "三鼓「午夜零时的三振」"
+      ]
+    },
+    "name-054": {
+      "original_lines": [
+        "死鼓「ランドパーカス」"
+      ],
+      "translated_lines": [
+        "死鼓「Land Percuss」"
+      ]
+    },
+    "name-055": {
+      "original_lines": [
+        "五鼓「デンデン太鼓」"
+      ],
+      "translated_lines": [
+        "五鼓「雷电拨浪鼓」"
+      ]
+    },
+    "name-056": {
+      "original_lines": [
+        "六鼓「オルタネイトスティッキング」"
+      ],
+      "translated_lines": [
+        "六鼓「Alternate Sticking」"
+      ]
+    },
+    "name-057": {
+      "original_lines": [
+        "七鼓「高速和太鼓ロケット」"
+      ],
+      "translated_lines": [
+        "七鼓「高速和太鼓火箭」"
+      ]
+    },
+    "name-058": {
+      "original_lines": [
+        "八鼓「雷神の怒り」"
+      ],
+      "translated_lines": [
+        "八鼓「雷神之怒」"
+      ]
+    },
+    "name-059": {
+      "original_lines": [
+        "「ブルーレディショー」"
+      ],
+      "translated_lines": [
+        "「Blue Lady Show」"
+      ]
+    },
+    "name-060": {
+      "original_lines": [
+        "「プリスティンビート」"
+      ],
+      "translated_lines": [
+        "「Pristine Beat」"
+      ]
+    }
+  }
+}

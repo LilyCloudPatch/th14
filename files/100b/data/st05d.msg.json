@@ -1,0 +1,324 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st05d.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "何だ？",
+        "お前は"
+      ],
+      "translated_lines": [
+        "怎么？",
+        "你是谁"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "ここはお前達のような人間が",
+        "来る場所ではない"
+      ],
+      "translated_lines": [
+        "这里可不是你们这样的人类",
+        "可以来的地方"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "即刻立ち去れい！"
+      ],
+      "translated_lines": [
+        "速速离去！"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "いやだ"
+      ],
+      "translated_lines": [
+        "才不要"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "ミニ八卦炉がおかしくなった原因が",
+        "ここにある筈なんでね"
+      ],
+      "translated_lines": [
+        "因为迷你八卦炉变得奇怪的原因",
+        "一定就在这里呢"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "何の話だ？"
+      ],
+      "translated_lines": [
+        "你在说什么？"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "お前は付喪神を操って",
+        "何かを企んでいるんだろ？"
+      ],
+      "translated_lines": [
+        "你操纵那些付丧神",
+        "一定有什么企图吧？"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "さっきそう聞いたぜ",
+        "琴だった付喪神にな"
+      ],
+      "translated_lines": [
+        "刚才听到了这样的事哦",
+        "从琴的付丧神那里"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "付喪神……？"
+      ],
+      "translated_lines": [
+        "付丧神……？"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "ははん",
+        "|52,14,・・",
+        "そうか代償の影響か"
+      ],
+      "translated_lines": [
+        "哈哈",
+        "|65,16,··",
+        "是吗，是代价的影响啊"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "ん？"
+      ],
+      "translated_lines": [
+        "嗯？"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "付喪神などおまけでしかない",
+        "私が望むのはただ一つ"
+      ],
+      "translated_lines": [
+        "付丧神什么的只是附赠",
+        "我所期望的事只有一件"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "下克上だ！"
+      ],
+      "translated_lines": [
+        "那就是下克上！"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "強者が力を失い",
+        "弱者が統べる世界を望むのだ！"
+      ],
+      "translated_lines": [
+        "我所期望的便是",
+        "强者失去力量而由弱者统治的世界！"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "どのみち被支配者の人間には",
+        "関係無い話だがな"
+      ],
+      "translated_lines": [
+        "虽然无论如何都和即将被支配的人类",
+        "没有关系了"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "下克上だと？",
+        "それは困るな"
+      ],
+      "translated_lines": [
+        "你说下克上？",
+        "那可真是麻烦啊"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "なあに　人間にとっては",
+        "今より住みよい世になるだろう"
+      ],
+      "translated_lines": [
+        "什~么嘛，对于人类来说",
+        "会变成比现在好居住的世界吧"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "違う違う",
+        "私は強者側だからな"
+      ],
+      "translated_lines": [
+        "不对不对",
+        "我可是强者这一侧的"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "下克上は私にとっての反逆だ"
+      ],
+      "translated_lines": [
+        "下克上对我来说可是反叛啊"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "ほう……",
+        "お前にも判らぬか"
+      ],
+      "translated_lines": [
+        "哦……",
+        "看来你也不懂嘛"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "|132,14,いか",
+        "我ら力弱き者達が如何に",
+        "虐げられていたか"
+      ],
+      "translated_lines": [
+        "我等力量弱小的存在们",
+        "受到了怎样的压迫"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "気にも留めたことがないと",
+        "言うのなら"
+      ],
+      "translated_lines": [
+        "既然你都说了",
+        "完全没有注意过"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "何もかもひっくり返る逆さ城で",
+        "初めての挫折を味わうがいい！"
+      ],
+      "translated_lines": [
+        "那就在这万物颠倒的反转城里",
+        "尝尝第一次受挫的滋味吧！"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "くう",
+        "なんてこった"
+      ],
+      "translated_lines": [
+        "咕　",
+        "怎么会这样"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "時期尚早だったか"
+      ],
+      "translated_lines": [
+        "现在还为时尚早吗"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "ほら強者だろ？"
+      ],
+      "translated_lines": [
+        "看，这就是强者哦？"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "その程度の力で世の中をひっくり",
+        "返せると思っている事に驚きだ"
+      ],
+      "translated_lines": [
+        "想用区区这种水平的力量来让",
+        "世界天翻地覆还真是令人惊讶呢"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "まだだ",
+        "まだ諦めないぞ！"
+      ],
+      "translated_lines": [
+        "还没完",
+        "我还不会放弃！"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "我らの手に秘宝がある限り",
+        "いくらでも強くなれるのだ"
+      ],
+      "translated_lines": [
+        "只要秘宝还在我等手中",
+        "不管多强的力量都可以获得"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "……多少の代償に目を瞑れば"
+      ],
+      "translated_lines": [
+        "……只要不在乎会付出什么代价"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "あっ　待て！"
+      ],
+      "translated_lines": [
+        "啊，站住！"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "いくらでも強くなれる……",
+        "だと？"
+      ],
+      "translated_lines": [
+        "不管多强的力量都可以获得……",
+        "吗？"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "面白いじゃないか"
+      ],
+      "translated_lines": [
+        "这不是很有趣吗"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "ちょいと後を付けるか"
+      ],
+      "translated_lines": [
+        "跟在她后面看看吧"
+      ]
+    }
+  }
+}

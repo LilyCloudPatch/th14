@@ -1,0 +1,73 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/e07.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　博麗神社。"
+      ],
+      "translated_lines": [
+        "　　博丽神社。"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　霊夢の心は揺れ動いていた。"
+      ],
+      "translated_lines": [
+        "　　灵梦的内心动摇着。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "霊夢「うーん。厳しいわー。",
+        "　　　下克上側に付こうかなぁ」"
+      ],
+      "translated_lines": [
+        "灵梦「嗯～。真难啊。",
+        "　　　跟随下克上的那一边吧」"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "　　霊夢は強力な打ち出の小槌に打ちのめされていた。"
+      ],
+      "translated_lines": [
+        "　　灵梦被强力的万宝槌打倒了。"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "　　下克上側に付きたいって……"
+      ],
+      "translated_lines": [
+        "　　竟然想要跟随下克上那一边……"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "　　人間、妖怪を全て敵に回して良いのか？　霊夢。"
+      ],
+      "translated_lines": [
+        "　　与所有人类、妖怪为敌真的好么？　灵梦。"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "　　Ending　No.07　　まだまだ諦めるな！"
+      ],
+      "translated_lines": [
+        "　　Ending　No.07　　还不能轻易放弃！"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "　　ノーコンティニューでクリアを目指せ！"
+      ],
+      "translated_lines": [
+        "　　以不续关通关为目标努力吧！"
+      ]
+    }
+  }
+}

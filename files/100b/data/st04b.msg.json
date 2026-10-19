@@ -1,0 +1,293 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st04b.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "この不気味な嵐は一体……"
+      ],
+      "translated_lines": [
+        "这阵诡异的风暴究竟是……"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "こういう所に何らかの敵がいる！",
+        "私の経験上！"
+      ],
+      "translated_lines": [
+        "这种地方一定会有敌人！",
+        "这可是我的经验之谈！"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "ちょっとまって"
+      ],
+      "translated_lines": [
+        "稍微等一下"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "私の相手をしてくれない？"
+      ],
+      "translated_lines": [
+        "能来当下我的对手么？"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "ほら妖怪がいた"
+      ],
+      "translated_lines": [
+        "你看果然有妖怪在"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "こうなりゃ何でも相手になるわよ"
+      ],
+      "translated_lines": [
+        "这样一来不管是谁我都会当当对手呢"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "こらこらそいつは私の獲物だぞ？"
+      ],
+      "translated_lines": [
+        "喂喂那家伙可是我的猎物哦？"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "横取りとは感心しないねぇ"
+      ],
+      "translated_lines": [
+        "你这么横插一脚可不好哦"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "ふーんだ",
+        "逃す方が悪いんだから"
+      ],
+      "translated_lines": [
+        "哼　",
+        "那也只能怪你让她半路逃跑了"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "それにさっきの戦いをみてたけど"
+      ],
+      "translated_lines": [
+        "况且我看了刚才的战斗"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "こいつは姉さんの直線的な",
+        "音楽じゃあ駄目よ"
+      ],
+      "translated_lines": [
+        "姐姐那样直来直去的音乐",
+        "要对付这家伙可是行不通的哦"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "えーっと"
+      ],
+      "translated_lines": [
+        "那什么"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "何でも良いから始めてくれない？"
+      ],
+      "translated_lines": [
+        "怎样都好能不能快点开始呢？"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "そうね",
+        "やるわよー？"
+      ],
+      "translated_lines": [
+        "也是呢",
+        "那我上咯？"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "私は人間と闘って倒すのが",
+        "夢だったんだから"
+      ],
+      "translated_lines": [
+        "我做梦都想着和人类战斗",
+        "并把他们都打倒呢"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "まあいいや",
+        "私は他の相手を探そうっと"
+      ],
+      "translated_lines": [
+        "那算了",
+        "那我就去找找别的对手吧"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "じゃあ後はよろしく"
+      ],
+      "translated_lines": [
+        "之后就拜托你咯"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "あ　ちょっ……"
+      ],
+      "translated_lines": [
+        "啊，等……"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "どっちをみてるのよ",
+        "貴方の相手は私よ"
+      ],
+      "translated_lines": [
+        "你在看哪里啊",
+        "你的对手是我"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "大人しき者が力を得る",
+        "この下克上の世界"
+      ],
+      "translated_lines": [
+        "在老实的存在能够得到力量的",
+        "这个下克上的世界"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "道具だって世界を支配できる！",
+        "貴方はその礎となるのよ！"
+      ],
+      "translated_lines": [
+        "就算是道具也能支配世界！",
+        "你将是这路上的垫脚石！"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "ありゃりゃ"
+      ],
+      "translated_lines": [
+        "哎呀呀"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "強いのねー"
+      ],
+      "translated_lines": [
+        "真强啊～"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "ちょっとちょっと"
+      ],
+      "translated_lines": [
+        "等一下等一下"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "下克上の世界って",
+        "どういうこと？"
+      ],
+      "translated_lines": [
+        "下克上的世界",
+        "是怎么回事？"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "だって……",
+        "私みたいな道具でも力が持てる"
+      ],
+      "translated_lines": [
+        "因为……",
+        "像我这种道具都能得到力量"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "最高じゃない",
+        "大人しくしている場合じゃないわ"
+      ],
+      "translated_lines": [
+        "这不是太棒了嘛",
+        "不是应该老老实实呆着的时候"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "道具が力を……だって？"
+      ],
+      "translated_lines": [
+        "你说……道具获得了力量？"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "それに今まで大人しかった妖怪達ほど",
+        "強い力が貰えるのよ？"
+      ],
+      "translated_lines": [
+        "而且迄今为止越老实的妖怪",
+        "获得的力量越大哦？"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "これは下克上の流れだわ！"
+      ],
+      "translated_lines": [
+        "这不就是下克上的趋势嘛？"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "え？　力が貰える？",
+        "何を言って……"
+      ],
+      "translated_lines": [
+        "咦？能获得力量？",
+        "你在说什么……"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "空中に浮かぶ逆さ城……",
+        "あそこから力が溢れ出てるのよ"
+      ],
+      "translated_lines": [
+        "浮在空中的倒立城……",
+        "力量都是从那儿涌出来的"
+      ]
+    }
+  }
+}

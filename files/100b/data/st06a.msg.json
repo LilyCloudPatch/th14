@@ -1,0 +1,292 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st06a.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "すっかり夜が明けたみたいね"
+      ],
+      "translated_lines": [
+        "似乎天已经完全亮了呢"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "もう闘いのお膳立ては整ったわ"
+      ],
+      "translated_lines": [
+        "战斗的准备已经做好了"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "さあ出てきなさい！",
+        "幻想郷の平穏を破る者よ！"
+      ],
+      "translated_lines": [
+        "好了给我出来吧！",
+        "打破幻想乡平稳的人啊！"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "だーれ？"
+      ],
+      "translated_lines": [
+        "谁～呀？"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "あら博麗神社の巫女じゃない"
+      ],
+      "translated_lines": [
+        "哎呀这不是博丽神社的巫女吗"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "あれ……そのお祓い棒は",
+        "秘宝の力を得ているみたいね"
+      ],
+      "translated_lines": [
+        "咦……那根驱魔棒",
+        "似乎得到了秘宝之力了呢"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "という事は私の味方を",
+        "しに来たのかしら？"
+      ],
+      "translated_lines": [
+        "也就是说你是要来",
+        "加入我这一边的吗？"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "ああん？",
+        "誰が味方だって？"
+      ],
+      "translated_lines": [
+        "啊啊？",
+        "你说谁是你那边的？"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "嬉しいわ－！",
+        "巫女が後ろ盾になってくれるなら"
+      ],
+      "translated_lines": [
+        "真是令人高兴～！",
+        "如果有巫女能做我的后盾的话"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "簡単に幻想郷をひっくり返せるわ"
+      ],
+      "translated_lines": [
+        "推翻幻想乡简直轻而易举了"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "やっぱり下克上を企んでいるのね？"
+      ],
+      "translated_lines": [
+        "果然是在企图下克上吧？"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "私がそんな話に乗るわけが",
+        "無いでしょ？"
+      ],
+      "translated_lines": [
+        "我怎么可能会和你",
+        "同流合污？"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "もの言わぬ道具は朽ちるまで",
+        "こき使われる"
+      ],
+      "translated_lines": [
+        "不会说话的道具直到腐朽",
+        "都会被人压榨"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "動く事も考える事も許されず……"
+      ],
+      "translated_lines": [
+        "不允许自由行动自我思考……"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "日頃から感謝だの",
+        "壊れたから供養だの"
+      ],
+      "translated_lines": [
+        "什么一直以来都很感谢",
+        "什么坏掉了就供起来"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "そんな事言って満足している",
+        "|31,9,つよきもの",
+        "のは使用者だけよ！"
+      ],
+      "translated_lines": [
+        "说着这些话自我满足的",
+        "|42,16,强者",
+        "都是使用者！"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "うーん？"
+      ],
+      "translated_lines": [
+        "嗯～？"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "どう？　貴方の道具は今の方が",
+        "嬉しそうでしょ？"
+      ],
+      "translated_lines": [
+        "如何？你的道具现在",
+        "看起来很开心不是么？"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "喜んで使っている貴方に訊くまでも",
+        "無かったわね"
+      ],
+      "translated_lines": [
+        "愉快地使用着它的你",
+        "也无需多问了吧"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "それはその……",
+        "えーっと"
+      ],
+      "translated_lines": [
+        "那种事情……",
+        "那个……"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "|109,7,よわきもの",
+        "さあ私と一緒に道具が笑って過ごせる",
+        "世界を創りましょ！"
+      ],
+      "translated_lines": [
+        "|177,16,弱者",
+        "来吧，和我一起创造一个道具能够",
+        "欢笑着生活的世界吧！"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "だけど！"
+      ],
+      "translated_lines": [
+        "但是！"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "私は下克上の味方なんかする訳に",
+        "いかないわ！"
+      ],
+      "translated_lines": [
+        "我可绝不会做你们这种",
+        "下克上的同伙！"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "貴方の様な生まれつきの強者は",
+        "力を得る喜びを知らないのね"
+      ],
+      "translated_lines": [
+        "像你这种天生就是强者的人",
+        "是不懂获得力量的喜悦的吧"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "しかしそのお祓い棒を見れば",
+        "心に迷いを感じている事も窺える"
+      ],
+      "translated_lines": [
+        "但是看看那根驱魔棒",
+        "也能看出你心中正在迷茫"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "私の手には夢幻の力がある"
+      ],
+      "translated_lines": [
+        "我的手中掌握着梦幻之力"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "|160,10,こづち",
+        "それが秘宝『打ち出の小槌』！"
+      ],
+      "translated_lines": [
+        "那就是秘宝『万宝槌』！"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "打ち出の……小槌だって！？",
+        "もしかしてその手にあるのは……"
+      ],
+      "translated_lines": [
+        "万宝……槌！？",
+        "难道你手中的就是……"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "私には貴方が弱者を理解し",
+        "私の味方になる未来が見える"
+      ],
+      "translated_lines": [
+        "我能够看到你理解弱者",
+        "并且加入我方的未来"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "|48,10,こづち",
+        "さあ、秘宝よ！",
+        "もの言わぬ道具に夢幻の力を与え給え！"
+      ],
+      "translated_lines": [
+        "|49,16,小槌",
+        "来吧，秘宝啊！",
+        "将梦幻之力赐予那些不会说话的道具吧！"
+      ]
+    }
+  }
+}

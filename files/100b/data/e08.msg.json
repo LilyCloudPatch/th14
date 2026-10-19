@@ -1,0 +1,67 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/e08.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　博麗神社。"
+      ],
+      "translated_lines": [
+        "　　博丽神社。"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　霊夢の心は打ち砕かれていた。"
+      ],
+      "translated_lines": [
+        "　　灵梦的内心动摇着。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "霊夢「やばいわ！",
+        "　　　お祓い棒抜きではこんなに厳しいとは……」"
+      ],
+      "translated_lines": [
+        "灵梦「真是糟糕！",
+        "　　　没想到少了驱魔棒竟会如此棘手……」"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "　　霊夢は強力な打ち出の小槌に打ちのめされていた。"
+      ],
+      "translated_lines": [
+        "　　灵梦被强力的万宝槌打倒了。"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "　　お祓い棒は頼りにならないが、練習して挑むんだ！"
+      ],
+      "translated_lines": [
+        "　　虽然无法指望驱魔棒，还是得继续练习然后挑战！"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "　",
+        "　　Ending　No.08　　練習あるのみ！"
+      ],
+      "translated_lines": [
+        "　",
+        "　　Ending　No.08　　只有继续练习！"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "　　ノーコンティニューでクリアを目指せ！"
+      ],
+      "translated_lines": [
+        "　　以不续关通关为目标努力吧！"
+      ]
+    }
+  }
+}
