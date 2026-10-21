@@ -1,0 +1,103 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st01c.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "ちょっと肌寒いな"
+      ],
+      "translated_lines": [
+        "有点冷啊"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "あなたは！"
+      ],
+      "translated_lines": [
+        "你是！"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "私を退治しに来たのですね？"
+      ],
+      "translated_lines": [
+        "来退治我的吧？"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "ん？",
+        "ああ　まあそうかな"
+      ],
+      "translated_lines": [
+        "嗯？",
+        "啊啊，差不多吧"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "それにしても人魚か",
+        "刺身……"
+      ],
+      "translated_lines": [
+        "不过是人鱼啊",
+        "刺身……"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "よし！",
+        "こいつを倒してのし上がるよ！"
+      ],
+      "translated_lines": [
+        "好！",
+        "那就打倒这家伙来崛起！"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "|62,8,ようかい",
+        "そろそろ私達の天下が",
+        "来るんだから！"
+      ],
+      "translated_lines": [
+        "|33,16,妖怪",
+        "很快我们的天下",
+        "就要到来了！"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "ああ所詮は半分魚だ",
+        "大したことは無かったな"
+      ],
+      "translated_lines": [
+        "啊啊毕竟有一半是鱼",
+        "没成什么大气候"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "刺身……",
+        "天ぷら……"
+      ],
+      "translated_lines": [
+        "刺身……",
+        "天妇罗……"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "いやいや",
+        "それはないな"
+      ],
+      "translated_lines": [
+        "不不",
+        "那可不好"
+      ]
+    }
+  }
+}

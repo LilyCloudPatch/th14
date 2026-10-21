@@ -1,0 +1,105 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st01b.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "こんな湖に暴れるような",
+        "妖怪がいたっけなぁ"
+      ],
+      "translated_lines": [
+        "在这种湖里有那种",
+        "会暴动的妖怪来着吗"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "あなたは！"
+      ],
+      "translated_lines": [
+        "你是！"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "かの高名な巫女じゃ",
+        "ありませんか"
+      ],
+      "translated_lines": [
+        "这不是那个大名鼎鼎的",
+        "巫女吗"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "あれ？",
+        "武器を持っていないって事は"
+      ],
+      "translated_lines": [
+        "咦？",
+        "你没拿着武器是说明"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "私を退治しに来た",
+        "訳ではないの？"
+      ],
+      "translated_lines": [
+        "你不是来",
+        "退治我的吗？？"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "退治に来たんだけど",
+        "お祓い棒は……ちょっとね"
+      ],
+      "translated_lines": [
+        "虽然是来退治的",
+        "但是驱魔棒……有点"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "舐めきってるわね！"
+      ],
+      "translated_lines": [
+        "真是太瞧不起人了！"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "|-2,8,ようかい",
+        "私達の恐ろしさを",
+        "再確認すると良いわ！"
+      ],
+      "translated_lines": [
+        "|129,16,妖怪",
+        "让你重新确认一下我们",
+        "是多么恐怖吧！"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "人魚は大人しい妖怪だと",
+        "思ってたんだけどねぇ"
+      ],
+      "translated_lines": [
+        "我还觉得人鱼",
+        "是很老实的妖怪呢"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "やっぱり何か",
+        "起きてるのかな"
+      ],
+      "translated_lines": [
+        "果然还是",
+        "出了什么事吧"
+      ]
+    }
+  }
+}

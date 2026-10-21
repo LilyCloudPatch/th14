@@ -1,0 +1,307 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st04e.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "急に不気味な雲が",
+        "現れたと思ったら"
+      ],
+      "translated_lines": [
+        "还在想为什么",
+        "会突然出现阴森的云"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "やっぱり自然に出来た雲じゃ",
+        "ないようね"
+      ],
+      "translated_lines": [
+        "果然这云不是",
+        "自然生成的吧"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "みーつけた"
+      ],
+      "translated_lines": [
+        "发～现啦"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "私の相手になってくれそうな人"
+      ],
+      "translated_lines": [
+        "看起来能当我对手的人"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "よし",
+        "敵だわ！"
+      ],
+      "translated_lines": [
+        "好　",
+        "是敌人！"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "そろそろナイフが乾く",
+        "頃合いでしたわ"
+      ],
+      "translated_lines": [
+        "正好我的刀",
+        "快干了"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "ちょっと待ってよ",
+        "そいつは私が先に見つけたのよ"
+      ],
+      "translated_lines": [
+        "等一下啊",
+        "最先发现那家伙的是我啊"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "後から来て横取りだなんて狡いわ",
+        "姉さん"
+      ],
+      "translated_lines": [
+        "来得比我晚还想抢走也太狡猾了",
+        "姐姐"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "良いじゃないの"
+      ],
+      "translated_lines": [
+        "有什么关系"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "それにさっきの戦いをみてたけど",
+        "あんたの手ぬるい音楽じゃあ無理よ"
+      ],
+      "translated_lines": [
+        "况且我看了刚才的战斗",
+        "凭你那种慢吞吞的音乐是不行的"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "この付喪神使いを倒すのは"
+      ],
+      "translated_lines": [
+        "要想打倒这个付丧神使的话"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "付喪神使い……？"
+      ],
+      "translated_lines": [
+        "付丧神使……？"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "そうね……この妖剣",
+        "付喪神みたいなもんね"
+      ],
+      "translated_lines": [
+        "是啊……这个妖剑",
+        "就像付丧神一样呢"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "何を言っているの？"
+      ],
+      "translated_lines": [
+        "你在说什么？"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "みたいなもんじゃなくて……",
+        "どう見ても付喪神じゃない"
+      ],
+      "translated_lines": [
+        "什么“就像”……",
+        "怎么看都是付丧神吧"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "ふーん　まあいいや",
+        "こいつは姉さんに任せるわ"
+      ],
+      "translated_lines": [
+        "哼～算了",
+        "这家伙就交给姐姐吧"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "じゃあねー"
+      ],
+      "translated_lines": [
+        "再见啦～"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "逃がすもんですか！"
+      ],
+      "translated_lines": [
+        "想跑吗！"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "待ちな！",
+        "あんたの相手はこの私だよ"
+      ],
+      "translated_lines": [
+        "站住！",
+        "你的对手是我"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "何もかも逆さまな",
+        "下克上のこの世界"
+      ],
+      "translated_lines": [
+        "在这个万物颠倒的",
+        "下克上的世界"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "最強の道具が誰なのか",
+        "今ここで決めるわよ！"
+      ],
+      "translated_lines": [
+        "现在就在这里决定",
+        "谁才是最强的道具吧！"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "うーん",
+        "まいったまいった"
+      ],
+      "translated_lines": [
+        "嗯～",
+        "服了服了"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "降参よー"
+      ],
+      "translated_lines": [
+        "我投降～"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "切れ味鈍らないわねー",
+        "斬っても斬っても"
+      ],
+      "translated_lines": [
+        "小刀真是一点也不会钝呢～",
+        "无论怎么砍"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "そりゃそうよ",
+        "今や道具の天下だもの"
+      ],
+      "translated_lines": [
+        "那是当然",
+        "如今可是道具的天下"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "道具の天下？",
+        "どういうことかしら？"
+      ],
+      "translated_lines": [
+        "道具的天下？",
+        "怎么回事？"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "今や普段大人しい妖怪ほど",
+        "力が持てる世界なのよ？"
+      ],
+      "translated_lines": [
+        "现在的世界可是平常越老实的妖怪",
+        "越能获得力量哦？"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "そんなんなら",
+        "道具が最強に決まっているじゃない"
+      ],
+      "translated_lines": [
+        "这么说的话",
+        "道具一定就是最强的"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "何その世界",
+        "初めて聞いたわ"
+      ],
+      "translated_lines": [
+        "什么啊那个世界",
+        "我头一次听说"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "貴方もその恩恵を与りたいんでしょ？",
+        "だったら先に行くといいわ"
+      ],
+      "translated_lines": [
+        "你也想要分到那样的恩惠吧？",
+        "那么你继续前进就是了"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "行くって何処に？"
+      ],
+      "translated_lines": [
+        "前进是指去哪？"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "逆さ城に決まっているじゃない",
+        "私達の力の源流はそこなんだから"
+      ],
+      "translated_lines": [
+        "当然是那个倒立的城啊",
+        "我们力量的源泉就在那里"
+      ]
+    }
+  }
+}

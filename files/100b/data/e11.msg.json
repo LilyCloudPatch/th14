@@ -1,0 +1,79 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/e11.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　紅魔館。"
+      ],
+      "translated_lines": [
+        "　　红魔馆。"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　咲夜の心は揺れ動いていた。"
+      ],
+      "translated_lines": [
+        "　　咲夜的内心动摇着。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "咲夜「うーん。もっと斬ってみたいですねぇ。"
+      ],
+      "translated_lines": [
+        "咲夜「嗯～。好想再去砍点什么啊。"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "　　　打ち出の小槌の力ならそれが叶う……と？」"
+      ],
+      "translated_lines": [
+        "　　　用万宝槌的力量就可以实现这个愿望……吗？」"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "　　すっかり妖剣の魔力に冒されていた。"
+      ],
+      "translated_lines": [
+        "　　她已完全被妖剑的魔力侵蚀了。"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "　　今の主人を捨て、一寸法師に鞍替えする日も近いか！？"
+      ],
+      "translated_lines": [
+        "　　距离丢下现在的主人，跳槽到一寸法师手下的日子也不远了吗！？"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "　"
+      ],
+      "translated_lines": [
+        "　"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "　　Ending　No.11　　目を覚ませメイド長！"
+      ],
+      "translated_lines": [
+        "　　Ending　No.11　　醒醒啊女仆长！"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "　　ノーコンティニューでクリアを目指せ！"
+      ],
+      "translated_lines": [
+        "　　以不续关通关为目标努力吧！"
+      ]
+    }
+  }
+}

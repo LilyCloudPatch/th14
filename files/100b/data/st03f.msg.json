@@ -1,0 +1,257 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st03f.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "私を退治しに来たのね？"
+      ],
+      "translated_lines": [
+        "是来退治我的吧？"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "……何か"
+      ],
+      "translated_lines": [
+        "……怎么"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "みんな退治されたがっている",
+        "のかしら"
+      ],
+      "translated_lines": [
+        "大家都想被",
+        "退治吗"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "貴方に私が倒せるかしら？"
+      ],
+      "translated_lines": [
+        "就凭你能打倒我吗？"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "そう命じられましたので……"
+      ],
+      "translated_lines": [
+        "因为是被这样命令的……"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "ようやく私達のような妖怪も",
+        "脚光を浴びる時が来たわ"
+      ],
+      "translated_lines": [
+        "终于像我们这样的妖怪",
+        "也有崭露头角的时候了"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "脚光？"
+      ],
+      "translated_lines": [
+        "崭露头角？"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "大人しくしてろと言われて",
+        "はや幾年か"
+      ],
+      "translated_lines": [
+        "被人要求温顺地生活",
+        "不知已是几多年"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "もう我慢できないわ",
+        "これからは私達の時代よ！"
+      ],
+      "translated_lines": [
+        "已经无法容忍了",
+        "从现在开始就是我们的时代！"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "なんと狼男でしたか"
+      ],
+      "translated_lines": [
+        "居然是狼男啊"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "狼女です！"
+      ],
+      "translated_lines": [
+        "我是狼女！"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "ああ失礼しました"
+      ],
+      "translated_lines": [
+        "啊啊真是失敬"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "よく屋敷でオオカミ男ごっこを",
+        "するので"
+      ],
+      "translated_lines": [
+        "我们经常在宅邸里面",
+        "玩狼男游戏"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "あら注目を浴びてるのかしら"
+      ],
+      "translated_lines": [
+        "哎呀我们很引人注目吗"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "貴方って……吸血鬼のメイドよね？"
+      ],
+      "translated_lines": [
+        "你是……吸血鬼的女仆吧？"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "よくモノマネをしますよ"
+      ],
+      "translated_lines": [
+        "我经常模仿你们的"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "『あっしは満月を見ると",
+        "　変身するでガンス』"
+      ],
+      "translated_lines": [
+        "『俺看着满月",
+        "　就会变身的喽』"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "…………"
+      ],
+      "translated_lines": [
+        "…………"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "…………"
+      ],
+      "translated_lines": [
+        "…………"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "負けちゃったから",
+        "無条件で降伏するしかないのかー"
+      ],
+      "translated_lines": [
+        "既然输了",
+        "就只好无条件投降了～"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "その前に……"
+      ],
+      "translated_lines": [
+        "在那之前……"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "他に暴れている妖怪が居ないか",
+        "知りません？"
+      ],
+      "translated_lines": [
+        "你知道还有没有其他",
+        "暴动的妖怪了吗？"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "他にって……",
+        "私は単独で行動してるけど"
+      ],
+      "translated_lines": [
+        "你说其他的……",
+        "可我是单独行动的"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "え？"
+      ],
+      "translated_lines": [
+        "咦？"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "人魚とかろくろ首とかと",
+        "共謀していないの？"
+      ],
+      "translated_lines": [
+        "你和人鱼辘轳首之类的",
+        "不是合谋的吗？"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "共謀だなんて……",
+        "そんな事しないわよ"
+      ],
+      "translated_lines": [
+        "你说合谋……",
+        "我不会做那种事的"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "うーん？",
+        "偶然同時多発的に暴れてた？"
+      ],
+      "translated_lines": [
+        "嗯～？",
+        "偶然同时多发性的暴动？"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "そんな事有り得ないと",
+        "思うんだけど……"
+      ],
+      "translated_lines": [
+        "我觉得这种事",
+        "不可能发生……"
+      ]
+    }
+  }
+}

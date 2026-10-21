@@ -1,0 +1,305 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st05a.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "何だ？",
+        "お前は"
+      ],
+      "translated_lines": [
+        "怎么？",
+        "你是谁"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "ここはお前達のような人間が",
+        "来る場所ではない"
+      ],
+      "translated_lines": [
+        "这里可不是你们这样的人类",
+        "可以来的地方"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "即刻立ち去れい！"
+      ],
+      "translated_lines": [
+        "速速离去！"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "はいそうですか……",
+        "って立ち去る訳がないでしょ？"
+      ],
+      "translated_lines": [
+        "哦好吧……",
+        "等等我怎么可能就这么走了？"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "空中にこんなお城を建てて",
+        "何考えているのよ"
+      ],
+      "translated_lines": [
+        "在空中建个这样的城",
+        "是何居心"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "……ほう",
+        "そうかそのお祓い棒"
+      ],
+      "translated_lines": [
+        "……哦",
+        "原来你手上的驱魔棒"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "自我を持っている様だな"
+      ],
+      "translated_lines": [
+        "似乎具有自我意识呢"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "|4,14,・・・",
+        "そいつに導かれてやってきた",
+        "って訳か"
+      ],
+      "translated_lines": [
+        "|17,17,···",
+        "是那家伙引导你",
+        "前来的吗"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "何だって？"
+      ],
+      "translated_lines": [
+        "你说什么？"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "困ったもんだ",
+        "|4,14,・・",
+        "アレの代償が大きすぎたか"
+      ],
+      "translated_lines": [
+        "真伤脑筋",
+        "|2,16,··",
+        "那个的代价太大了吗"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "すんなり世の中を",
+        "ひっくり返せないもんだなぁ"
+      ],
+      "translated_lines": [
+        "看来不太可能",
+        "一帆风顺地颠覆这个世界呢"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "あんた",
+        "もしかして……"
+      ],
+      "translated_lines": [
+        "你，该不会……"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "本当に下克上を企んで……"
+      ],
+      "translated_lines": [
+        "真的企图下克上……"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "ふっふっふ",
+        "如何にも"
+      ],
+      "translated_lines": [
+        "哈哈哈",
+        "当然"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "これからは強者が力を失い",
+        "弱者がこの世を統べるのだ！"
+      ],
+      "translated_lines": [
+        "今后强者将失去力量",
+        "弱者将会统治这个世界！"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "呆れたわ"
+      ],
+      "translated_lines": [
+        "真是令人震惊"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "そんな誰も得をしない事を",
+        "する妖怪がいるなんて"
+      ],
+      "translated_lines": [
+        "还真会有妖怪会去做",
+        "这种对谁都没有好处的事"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "誰も得をしない",
+        "……だとぉ？"
+      ],
+      "translated_lines": [
+        "……居然说对谁都",
+        "没有好处？"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "|132,14,いか",
+        "我ら力弱き者達が如何に",
+        "虐げられていたか"
+      ],
+      "translated_lines": [
+        "我们这些没有力量的弱者们",
+        "以前是如何被虐待的"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "お前達には判るまい",
+        "……ならば"
+      ],
+      "translated_lines": [
+        "你们一定体会不到吧",
+        "……那么"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "何もかもひっくり返る逆さ城で",
+        "念願の挫折を味わうがいい！"
+      ],
+      "translated_lines": [
+        "就在这万物颠倒的倒立城里",
+        "尝尝你所期望的挫折吧！"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "くう",
+        "なんてこった"
+      ],
+      "translated_lines": [
+        "咕　",
+        "怎么会这样"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "時期尚早だったか"
+      ],
+      "translated_lines": [
+        "现在还为时尚早吗"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "そんなんで下克上する",
+        "つもりだったの？"
+      ],
+      "translated_lines": [
+        "就这样你也想",
+        "下克上？"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "もっと強い妖怪だって",
+        "沢山倒して来たわ"
+      ],
+      "translated_lines": [
+        "比你更强的妖怪",
+        "我也打倒了很多"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "まだだ",
+        "まだ諦めないぞ！"
+      ],
+      "translated_lines": [
+        "还没完",
+        "我绝不认输！"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "我らの手に秘宝がある限り",
+        "いくらでも強くなれるのだ"
+      ],
+      "translated_lines": [
+        "只要秘宝还在我等手中",
+        "不管多强的力量都可以获得"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "……多少の代償に目を瞑れば"
+      ],
+      "translated_lines": [
+        "……只要不在乎会付出什么代价"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "あっ　ちょっ！"
+      ],
+      "translated_lines": [
+        "啊，等！"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "……逃げたつもりなのかぁ",
+        "口だけの妖怪の行動って"
+      ],
+      "translated_lines": [
+        "……这就算逃跑了啊",
+        "只会耍嘴皮子的妖怪的行动"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "むしろ案内している",
+        "ようなものね"
+      ],
+      "translated_lines": [
+        "反而像是在给我",
+        "带路呢"
+      ]
+    }
+  }
+}

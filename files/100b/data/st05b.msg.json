@@ -1,0 +1,303 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st05b.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "何だ？",
+        "お前は"
+      ],
+      "translated_lines": [
+        "怎么？",
+        "你是谁"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "ここはお前達のような人間が",
+        "来る場所ではない"
+      ],
+      "translated_lines": [
+        "这里可不是你们这样的人类",
+        "可以来的地方"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "即刻立ち去れい！"
+      ],
+      "translated_lines": [
+        "速速离去！"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "はいそうですか……",
+        "って立ち去る訳がないでしょ？"
+      ],
+      "translated_lines": [
+        "好的我知道了……",
+        "等等谁会这么乖乖离开啊？"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "空中にこんなお城を建てて",
+        "何考えているのよ"
+      ],
+      "translated_lines": [
+        "在空中造出这种城堡",
+        "你是何居心"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "聞きたいか？",
+        "聞きたいよな？"
+      ],
+      "translated_lines": [
+        "想知道吗？",
+        "很想知道吧？"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "何を隠そう我らは",
+        "下克上を企んでいるのだ！"
+      ],
+      "translated_lines": [
+        "试图隐藏某事的我等",
+        "正在谋划下克上！"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "まあ関係無い話だがな",
+        "どのみち被支配者の人間には"
+      ],
+      "translated_lines": [
+        "不过对你们这些",
+        "迟早要被支配的人类来说都无所谓啦"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "本気で下克上を考えている奴が",
+        "いたのね"
+      ],
+      "translated_lines": [
+        "还真有想着下克上的家伙在啊"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "なんだ？",
+        "驚かないな"
+      ],
+      "translated_lines": [
+        "怎么？",
+        "你不怎么惊讶呢"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "だってさっきお琴の付喪神が",
+        "そんな話してたもん"
+      ],
+      "translated_lines": [
+        "因为刚才从琴的付丧神那儿",
+        "听说了这些啊"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "何だと？",
+        "お琴の付喪神だと……？"
+      ],
+      "translated_lines": [
+        "你说什么？",
+        "琴的付丧神……？"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "そうか",
+        "|52,14,・・",
+        "それも代償の一つだな"
+      ],
+      "translated_lines": [
+        "是吗",
+        "|49,16,··",
+        "这也是代价之一呢"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "……？"
+      ],
+      "translated_lines": [
+        "……？"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "まあいい",
+        "それも味方に付くだろう！"
+      ],
+      "translated_lines": [
+        "不过无所谓",
+        "她们也会成为我们的同伴吧！"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "これからは強者が力を失い",
+        "弱者がこの世を統べるのだ！"
+      ],
+      "translated_lines": [
+        "今后强者将失去力量",
+        "弱者将会统治这个世界！"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "呆れたわ"
+      ],
+      "translated_lines": [
+        "真是不像话"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "そんな誰も得をしない事を",
+        "する妖怪がいるなんて"
+      ],
+      "translated_lines": [
+        "没想到真有那些",
+        "考虑损人不利己的事情的妖怪"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "誰も得をしない",
+        "……だとぉ？"
+      ],
+      "translated_lines": [
+        "损人",
+        "……不利己？"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "|132,14,いか",
+        "我ら力弱き者達が如何に",
+        "虐げられていたか"
+      ],
+      "translated_lines": [
+        "我等弱者曾经所受的",
+        "那些不堪回首的痛苦"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "お前達人間には判るまい"
+      ],
+      "translated_lines": [
+        "你们人类怎么可能明白"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "何もかもひっくり返る逆さ城で",
+        "念願の挫折を味わうがいい！"
+      ],
+      "translated_lines": [
+        "就在这万物颠倒的倒立城里",
+        "尝尝你所期望的挫折吧！"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "くう",
+        "なんてこった"
+      ],
+      "translated_lines": [
+        "咕　",
+        "怎么会这样"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "時期尚早だったか"
+      ],
+      "translated_lines": [
+        "现在还为时尚早吗"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "下克上だなんて……"
+      ],
+      "translated_lines": [
+        "下克上什么的……"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "幻想郷を混乱に貶める",
+        "行動は許さないわ！"
+      ],
+      "translated_lines": [
+        "扰乱幻想乡的行动",
+        "我可不能允许！"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "混乱だと？",
+        "だから人間に何が判る"
+      ],
+      "translated_lines": [
+        "你说混乱？",
+        "所以说你们人类懂什么"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "ただ力が無いだけで悪の汚名を",
+        "着せられ虐げられてきた私の歴史"
+      ],
+      "translated_lines": [
+        "仅仅因为无力而被打上罪恶的污名的",
+        "我那些悲惨受虐的血泪史"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "今こそ復讐の時だ！"
+      ],
+      "translated_lines": [
+        "现在正是复仇之时！"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "あっ　ちょっ！"
+      ],
+      "translated_lines": [
+        "啊，等！"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "まあ追えば良いんでしょ？",
+        "追えば"
+      ],
+      "translated_lines": [
+        "算了，只要追上去就好了吧？",
+        "追上去就好"
+      ]
+    }
+  }
+}

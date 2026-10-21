@@ -1,0 +1,583 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "lilypatch/th14/hardcoded",
+  "entries": {
+    "message-000": {
+      "original_lines": [
+        "使えるパッドが存在しないようです、残念"
+      ],
+      "translated_lines": [
+        "很遗憾，找不到可以使用的手柄"
+      ]
+    },
+    "message-001": {
+      "original_lines": [
+        "データが壊れています"
+      ],
+      "translated_lines": [
+        "数据损坏"
+      ]
+    },
+    "message-002": {
+      "original_lines": [
+        "ステージデータが読み込めません。データが壊れています"
+      ],
+      "translated_lines": [
+        "无法读入关卡数据。数据已损坏"
+      ]
+    },
+    "message-003": {
+      "original_lines": [
+        "ステージデータが見つかりません。データが壊れています"
+      ],
+      "translated_lines": [
+        "无法找到关卡数据。数据已损坏"
+      ]
+    },
+    "message-004": {
+      "original_lines": [
+        "敵弾データが見つかりません。データが壊れています"
+      ],
+      "translated_lines": [
+        "无法找到敌弹数据。数据已损坏"
+      ]
+    },
+    "message-005": {
+      "original_lines": [
+        "エフェクトデータが見つかりません。データが壊れています"
+      ],
+      "translated_lines": [
+        "无法找到效果数据。数据已损坏"
+      ]
+    },
+    "message-006": {
+      "original_lines": [
+        "画面構成データが見つかりません。データが壊れています"
+      ],
+      "translated_lines": [
+        "无法找到构图数据。数据已损坏"
+      ]
+    },
+    "message-007": {
+      "original_lines": [
+        "error : 文字の初期化に失敗しました"
+      ],
+      "translated_lines": [
+        "error : 文字初始化失败"
+      ]
+    },
+    "message-008": {
+      "original_lines": [
+        "error : BGM の初期化に失敗しました"
+      ],
+      "translated_lines": [
+        "error : BGM初始化失败"
+      ]
+    },
+    "message-009": {
+      "original_lines": [
+        "error : データのバージョンが違います"
+      ],
+      "translated_lines": [
+        "error : 数据版本不符"
+      ]
+    },
+    "message-010": {
+      "original_lines": [
+        "error : データファイルが存在しません"
+      ],
+      "translated_lines": [
+        "error : 数据文件不存在"
+      ]
+    },
+    "message-011": {
+      "original_lines": [
+        "16bit は取り込めない"
+      ],
+      "translated_lines": [
+        "无法导入 16bit"
+      ]
+    },
+    "message-012": {
+      "original_lines": [
+        "snapShotScreen : 確保しくり"
+      ],
+      "translated_lines": [
+        "snapShotScreen : 确保执行"
+      ]
+    },
+    "message-013": {
+      "original_lines": [
+        "コンフィグデータが見つからないので初期化しました"
+      ],
+      "translated_lines": [
+        "因无法找到配置文件恢复初始化状态"
+      ]
+    },
+    "message-014": {
+      "original_lines": [
+        "コンフィグデータが異常でしたので再初期化しました"
+      ],
+      "translated_lines": [
+        "因配置文件异常重新进行初始化"
+      ]
+    },
+    "message-015": {
+      "original_lines": [
+        "フォグの使用を抑制します"
+      ],
+      "translated_lines": [
+        "减少迷雾使用"
+      ]
+    },
+    "message-016": {
+      "original_lines": [
+        "16Bit のテクスチャの使用を強制します"
+      ],
+      "translated_lines": [
+        "强制使用16Bit的贴图"
+      ]
+    },
+    "message-017": {
+      "original_lines": [
+        "ウィンドウモードで起動します"
+      ],
+      "translated_lines": [
+        "以窗口模式启动"
+      ]
+    },
+    "message-018": {
+      "original_lines": [
+        "リファレンスラスタライザを強制します"
+      ],
+      "translated_lines": [
+        "强制使用参考光栅"
+      ]
+    },
+    "message-019": {
+      "original_lines": [
+        "パッド、キーボードの入力に DirectInput を使用しません"
+      ],
+      "translated_lines": [
+        "不对手柄、键盘输入使用DirectInput"
+      ]
+    },
+    "message-020": {
+      "original_lines": [
+        "ＢＧＭをメモリに読み込みます"
+      ],
+      "translated_lines": [
+        "将BGM读入内存"
+      ]
+    },
+    "message-021": {
+      "original_lines": [
+        "垂直同期を取りません"
+      ],
+      "translated_lines": [
+        "不使用垂直同步"
+      ]
+    },
+    "message-022": {
+      "original_lines": [
+        "文字描画の環境を自動検出しません"
+      ],
+      "translated_lines": [
+        "不自动检测文字绘图环境"
+      ]
+    },
+    "message-023": {
+      "original_lines": [
+        "ファイルが書き出せません %s"
+      ],
+      "translated_lines": [
+        "无法读取文件 %s"
+      ]
+    },
+    "message-024": {
+      "original_lines": [
+        "フォルダが書込み禁止属性になっているか、ディスクがいっぱいいっぱいになってませんか？"
+      ],
+      "translated_lines": [
+        "文件夹是否为只读，或是目标磁盘已满？"
+      ]
+    },
+    "message-025": {
+      "original_lines": [
+        "自機データが見つかりません。データが壊れています"
+      ],
+      "translated_lines": [
+        "无法找到自机数据。数据已损坏"
+      ]
+    },
+    "message-026": {
+      "original_lines": [
+        "東方輝針城"
+      ],
+      "translated_lines": [
+        "东方辉针城"
+      ]
+    },
+    "message-027": {
+      "original_lines": [
+        "%s リプレイファイル情報"
+      ],
+      "translated_lines": [
+        "%s 录像文件信息"
+      ]
+    },
+    "message-028": {
+      "original_lines": [
+        "error : スコアファイルが書き込めない"
+      ],
+      "translated_lines": [
+        "error : 无法读入得分文件"
+      ]
+    },
+    "message-029": {
+      "original_lines": [
+        "ＭＳ ゴシック"
+      ],
+      "translated_lines": [
+        "simhei"
+      ]
+    },
+    "message-030": {
+      "original_lines": [
+        "ＭＳ 明朝"
+      ],
+      "translated_lines": [
+        "simsun"
+      ]
+    },
+    "message-031": {
+      "original_lines": [
+        "東方動作記録 --------------------------------------------- "
+      ],
+      "translated_lines": [
+        "东方动作记录 --------------------------------------------- "
+      ]
+    },
+    "message-032": {
+      "original_lines": [
+        "再起動を要するオプションが変更されたので再起動します"
+      ],
+      "translated_lines": [
+        "因进行了需要重启的操作请重新启动"
+      ]
+    },
+    "message-033": {
+      "original_lines": [
+        "Direct3D オブジェクトは何故か作成出来なかった"
+      ],
+      "translated_lines": [
+        "Direct3D 对象因某些原因无法实例化"
+      ]
+    },
+    "message-034": {
+      "original_lines": [
+        "Direct3D の初期化に失敗、この解像度には対応してません"
+      ],
+      "translated_lines": [
+        "Direct3D 初始化失败、无法使用这种分辨率"
+      ]
+    },
+    "message-035": {
+      "original_lines": [
+        "リフレッシュレートが60Hzではありません"
+      ],
+      "translated_lines": [
+        "刷新频率不为60Hz"
+      ]
+    },
+    "message-036": {
+      "original_lines": [
+        "解像度 %d %dで起動します"
+      ],
+      "translated_lines": [
+        "以分辨率 %d %d启动"
+      ]
+    },
+    "message-037": {
+      "original_lines": [
+        "初回起動、画面を 32Bits で初期化しました"
+      ],
+      "translated_lines": [
+        "第一次启动、画面被初始化为 32Bits"
+      ]
+    },
+    "message-038": {
+      "original_lines": [
+        "D3DTEXOPCAPS_ADD をサポートしていません、色加算エミュレートモードで動作します"
+      ],
+      "translated_lines": [
+        "不支持 D3DTEXOPCAPS_ADD、将使用颜色和模拟模式运行"
+      ]
+    },
+    "message-039": {
+      "original_lines": [
+        "512 以上のテクスチャをサポートしていません。殆どの絵がボケて表示されます。"
+      ],
+      "translated_lines": [
+        "不支持512以上的纹理 。图画质量将有所降低。"
+      ]
+    },
+    "message-040": {
+      "original_lines": [
+        "D3DFMT_A8R8G8B8 をサポートしていません、減色モードで動作します"
+      ],
+      "translated_lines": [
+        "不支持 D3DFMT_A8R8G8B8、将以低颜色配置运行"
+      ]
+    },
+    "message-041": {
+      "original_lines": [
+        "二つは起動できません"
+      ],
+      "translated_lines": [
+        "无法同时启动两次"
+      ]
+    },
+    "message-042": {
+      "original_lines": [
+        "DirectInput が使用できません"
+      ],
+      "translated_lines": [
+        "无法使用 DirectInput"
+      ]
+    },
+    "message-043": {
+      "original_lines": [
+        "DirectInput SetDataFormat が使用できません"
+      ],
+      "translated_lines": [
+        "无法使用 DirectInput SetDataFormat"
+      ]
+    },
+    "message-044": {
+      "original_lines": [
+        "DirectInput SetCooperativeLevel が使用できません"
+      ],
+      "translated_lines": [
+        "无法使用 DirectInput SetCooperativeLevel"
+      ]
+    },
+    "message-045": {
+      "original_lines": [
+        "DirectInput は正常に初期化されました"
+      ],
+      "translated_lines": [
+        "DirectInput 已正常初始化"
+      ]
+    },
+    "message-046": {
+      "original_lines": [
+        "有効なパッドを発見しました"
+      ],
+      "translated_lines": [
+        "没有发现有效的手柄"
+      ]
+    },
+    "message-047": {
+      "original_lines": [
+        "DirectSound オブジェクトの初期化が失敗したよ"
+      ],
+      "translated_lines": [
+        "DirectSound 对象实例化失败"
+      ]
+    },
+    "message-048": {
+      "original_lines": [
+        "error : Sound ファイルが読み込めない データを確認 %s"
+      ],
+      "translated_lines": [
+        "error : Sound 文件无法读入请检查文件 %s"
+      ]
+    },
+    "message-049": {
+      "original_lines": [
+        "DirectSound は正常に初期化されました"
+      ],
+      "translated_lines": [
+        "DirectSound 已正常初始化"
+      ]
+    },
+    "message-050": {
+      "original_lines": [
+        "Wav ファイルじゃない %s"
+      ],
+      "translated_lines": [
+        "%s 不是Wav文件"
+      ]
+    },
+    "message-051": {
+      "original_lines": [
+        "Wav ファイルじゃない? %s"
+      ],
+      "translated_lines": [
+        "%s 不是Wav文件？"
+      ]
+    },
+    "message-052": {
+      "original_lines": [
+        "テクスチャ格納先が足りません"
+      ],
+      "translated_lines": [
+        "纹理保存空间不足"
+      ]
+    },
+    "message-053": {
+      "original_lines": [
+        "アニメが読み込めません。データが失われてるか壊れています"
+      ],
+      "translated_lines": [
+        "无法读入动画。数据丢失或损坏"
+      ]
+    },
+    "message-054": {
+      "original_lines": [
+        "アニメのバージョンが違います"
+      ],
+      "translated_lines": [
+        "动画版本不符"
+      ]
+    },
+    "message-055": {
+      "original_lines": [
+        "テクスチャ %s が読み込めません。データが失われてるか壊れています"
+      ],
+      "translated_lines": [
+        "无法读取纹理 %s。数据丢失或损坏"
+      ]
+    },
+    "message-056": {
+      "original_lines": [
+        "テクスチャ %s が作成できません。データが失われてるか壊れています"
+      ],
+      "translated_lines": [
+        "无法生成纹理 %s。数据丢失或损坏"
+      ]
+    },
+    "message-057": {
+      "original_lines": [
+        "テクスチャが作成できません。データが失われてるか壊れています"
+      ],
+      "translated_lines": [
+        "贴图无法生成。Data丢失或者损坏。"
+      ]
+    },
+    "window-title-prefix": {
+      "original_lines": [
+        "東方輝針城　～"
+      ],
+      "translated_lines": [
+        "东方辉针城　～"
+      ]
+    },
+    "music-locked-1": {
+      "original_lines": [
+        "　　＊＊選択した曲はまだゲーム中で再生されていません＊＊"
+      ],
+      "translated_lines": [
+        "　　＊＊选择的曲目尚未在游戏中播放＊＊"
+      ]
+    },
+    "music-locked-2": {
+      "original_lines": [
+        "　　　　曲のコメントがネタバレになる恐れがあります。"
+      ],
+      "translated_lines": [
+        "　　　　曲子的评论可能会构成剧透。"
+      ]
+    },
+    "music-locked-3": {
+      "original_lines": [
+        "　　　　　　　　　それでも再生しますか？"
+      ],
+      "translated_lines": [
+        "　　　　　　　　　即便如此也要播放吗？"
+      ]
+    },
+    "music-locked-4": {
+      "original_lines": [
+        "　　　再生したい方は、もう一度決定ボタンを押してください。"
+      ],
+      "translated_lines": [
+        "　　　如果想要播放，请再次按下确定键。"
+      ]
+    },
+    "music-locked-5": {
+      "original_lines": [
+        "　　　再生したくない方は、カーソルを移動してください。"
+      ],
+      "translated_lines": [
+        "　　　如果不想播放，请移动至其他曲子。"
+      ]
+    },
+    "startup-dialog-title": {
+      "original_lines": [
+        "東方輝針城"
+      ],
+      "translated_lines": [
+        "东方辉针城"
+      ]
+    },
+    "startup-dialog-resolution-label": {
+      "original_lines": [
+        "解像度を選択してください"
+      ],
+      "translated_lines": [
+        "请选择分辨率"
+      ]
+    },
+    "startup-dialog-resolution-640": {
+      "original_lines": [
+        "640×480"
+      ],
+      "translated_lines": [
+        "640×480"
+      ]
+    },
+    "startup-dialog-resolution-960": {
+      "original_lines": [
+        "960×720"
+      ],
+      "translated_lines": [
+        "960×720"
+      ]
+    },
+    "startup-dialog-resolution-1280": {
+      "original_lines": [
+        "1280×960 （推奨）"
+      ],
+      "translated_lines": [
+        "1280×960 （推荐）"
+      ]
+    },
+    "startup-dialog-fullscreen": {
+      "original_lines": [
+        "フルスクリーンで起動する"
+      ],
+      "translated_lines": [
+        "全屏启动"
+      ]
+    },
+    "startup-dialog-ask": {
+      "original_lines": [
+        "起動時に毎回訊ねる"
+      ],
+      "translated_lines": [
+        "每次启动时询问"
+      ]
+    },
+    "startup-dialog-start": {
+      "original_lines": [
+        "ゲーム起動"
+      ],
+      "translated_lines": [
+        "启动游戏"
+      ]
+    }
+  }
+}

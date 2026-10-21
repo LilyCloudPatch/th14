@@ -1,0 +1,359 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st07b.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "この不思議な嵐も",
+        "打ち出の小槌の影響かな？"
+      ],
+      "translated_lines": [
+        "这场不可思议的风暴",
+        "也是受万宝槌的影响吗？"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "何て禍々しい魔力なのかしら"
+      ],
+      "translated_lines": [
+        "真是不祥的魔力啊"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "ようやく来たわね",
+        "博麗神社の巫女よ"
+      ],
+      "translated_lines": [
+        "终于来了呢",
+        "博丽神社的巫女啊"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "今頃来ても",
+        "もう遅いけどね"
+      ],
+      "translated_lines": [
+        "虽然现在才来",
+        "已经太迟了"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "遅いって……何が？"
+      ],
+      "translated_lines": [
+        "迟了……是指？"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "私は自立した魔力を",
+        "手に入れたのよ"
+      ],
+      "translated_lines": [
+        "我已经得到了",
+        "独立的魔力"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "もう打ち出の小槌の魔力など",
+        "必要ない"
+      ],
+      "translated_lines": [
+        "已经不再需要",
+        "万宝槌的魔力了"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "なんだって？"
+      ],
+      "translated_lines": [
+        "你说什么？"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "だから誰にも縛られないわ",
+        "私達は自由よ！"
+      ],
+      "translated_lines": [
+        "所以说我们已经不被任何人束缚",
+        "我们是自由的！"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "その力とやらも気になるけど",
+        "何でもいいや"
+      ],
+      "translated_lines": [
+        "虽然对那个力量也很在意",
+        "不过也无所谓了"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "あんたも暴れるというのなら",
+        "ここで成敗してくれる！"
+      ],
+      "translated_lines": [
+        "如果你还要继续暴走的话",
+        "那我就要在此决出胜负！"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "噂は本当だったのね"
+      ],
+      "translated_lines": [
+        "那些传言是真的呢"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "巫女は妖怪なら問答無用で",
+        "襲いかかってくるって"
+      ],
+      "translated_lines": [
+        "巫女会二话不说",
+        "袭击妖怪"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "|96,10,わたし",
+        "それはつまり道具が妖怪として",
+        "認められた証拠でもある"
+      ],
+      "translated_lines": [
+        "|65,16,我们",
+        "那也正是道具被认作是妖怪的",
+        "最好证据"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "|113,11,ドラマー",
+        "さあ外の世界の使役者よ！",
+        "今こそ闘いのビートを刻むのだ！"
+      ],
+      "translated_lines": [
+        "|136,17,鼓手",
+        "来吧，外面世界的使用者啊！",
+        "现在正是刻上战斗之律的时刻！"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "あらららら",
+        "降参よー"
+      ],
+      "translated_lines": [
+        "哎呀呀呀呀",
+        "我投降～"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "道具の割には中々やるじゃない"
+      ],
+      "translated_lines": [
+        "身为道具你还算挺能干的嘛"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "それにしてもお祓い棒といい",
+        "道具が暴れる世界って困るわね"
+      ],
+      "translated_lines": [
+        "话说回来就像我这个驱魔棒",
+        "道具暴走的世界还真是让人头疼"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "困る……だって？"
+      ],
+      "translated_lines": [
+        "头疼……吗？"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "そりゃ困るわよ",
+        "お祓い棒抜きでは大変だったんだから"
+      ],
+      "translated_lines": [
+        "当然头疼啊",
+        "没有驱魔棒的话可是会很麻烦的"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "道具はただ使われていればいいの",
+        "それが出来なきゃただのゴミよ"
+      ],
+      "translated_lines": [
+        "道具只要被乖乖使用就行了",
+        "如若不然就只能被视作垃圾了"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "……そう",
+        "道具って切ないわー"
+      ],
+      "translated_lines": [
+        "……是吗",
+        "道具还真是悲惨呢～"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "あんたも道具でしょ？"
+      ],
+      "translated_lines": [
+        "你也是道具吧？"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "そうでした"
+      ],
+      "translated_lines": [
+        "曾经是"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "付喪神化した道具は供養するのが",
+        "習わしだけど……"
+      ],
+      "translated_lines": [
+        "虽然除掉付丧神化的道具",
+        "是习俗来着……"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "お祓い棒の件もあるしー",
+        "今回は原因が特殊だしー"
+      ],
+      "translated_lines": [
+        "毕竟也有驱魔棒的事情～",
+        "而且这次的原因特殊～"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "……まあ大人しくしていれば",
+        "見逃してあげなくもないわ"
+      ],
+      "translated_lines": [
+        "……总之你只要能老老实实呆着",
+        "我放你一马也未尝不可"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "あら嬉しいわ",
+        "|48,10,あなた",
+        "絶対に巫女の前では暴れません"
+      ],
+      "translated_lines": [
+        "哎呀真让人开心呢",
+        "|53,10,你",
+        "那我在巫女面前就绝对不捣乱了"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "……他の人間の前でもね"
+      ],
+      "translated_lines": [
+        "……其他人类面前也不行哦"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "あ　でも"
+      ],
+      "translated_lines": [
+        "啊，不过"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "何？"
+      ],
+      "translated_lines": [
+        "什么？"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "コンサートの時だけは",
+        "暴れさせて下さいね"
+      ],
+      "translated_lines": [
+        "演奏会的时候",
+        "稍微让我活动一下吧"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "|78,8,ドラマー",
+        "外の世界の魔力が",
+        "こう囁くんです"
+      ],
+      "translated_lines": [
+        "|81,16,鼓手",
+        "外面世界的魔力",
+        "是这么跟我说的"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "太鼓を叩くに頭脳は要らぬ",
+        "猿人時代の魂を呼び覚ませ！　と"
+      ],
+      "translated_lines": [
+        "击打太鼓的时候不需要动脑",
+        "把猿人时代的灵魂唤醒吧！这样"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "へー",
+        "……外の世界は野蛮ねぇ"
+      ],
+      "translated_lines": [
+        "是吗～",
+        "……外界还真是野蛮呢"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "悪いけどここで足止めさせてもらうよ"
+      ],
+      "translated_lines": [
+        "虽然不好意思，但我们要在这里阻止你"
+      ]
+    },
+    "text-036": {
+      "original_lines": [
+        "鎮魂ライブの始まり始まりー！"
+      ],
+      "translated_lines": [
+        "镇魂演出就此开演就此开演～！"
+      ]
+    }
+  }
+}

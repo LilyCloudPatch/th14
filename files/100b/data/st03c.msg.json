@@ -1,0 +1,195 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st03c.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "私を退治しに来たのね？"
+      ],
+      "translated_lines": [
+        "是来退治我的吧？"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "あー",
+        "退治されたいようだな"
+      ],
+      "translated_lines": [
+        "啊～",
+        "好像是想要被退治呢"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "貴方に私が倒せるかしら？"
+      ],
+      "translated_lines": [
+        "就凭你能打倒我吗？"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "うーん",
+        "そうだな"
+      ],
+      "translated_lines": [
+        "嗯～",
+        "是啊"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "そのツヤの良い髪の毛",
+        "引火しやすそうだな"
+      ],
+      "translated_lines": [
+        "你的那个光亮的头发",
+        "似乎很容易着火呢"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "え？",
+        "引火？"
+      ],
+      "translated_lines": [
+        "咦？",
+        "着火？"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "跡形も無く丸焼きにしてやるぜ",
+        "この八卦炉でな！"
+      ],
+      "translated_lines": [
+        "我要把你烧到不留形迹为止",
+        "就用这个八卦炉！"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "ふふふ",
+        "当たるもんなら当ててみな！"
+      ],
+      "translated_lines": [
+        "呵呵呵",
+        "你要觉得能打中就试试！"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "この月に祝福されたこの地で",
+        "闘う不幸を悔やむがいい！"
+      ],
+      "translated_lines": [
+        "在这片被月祝福的土地上",
+        "对你进行战斗的不幸懊悔吧！"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "狼女か……"
+      ],
+      "translated_lines": [
+        "狼女吗……"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "何故本気を出さなかった？"
+      ],
+      "translated_lines": [
+        "为什么没有使出全力？"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "え？",
+        "本気を出したつもりだけど……"
+      ],
+      "translated_lines": [
+        "咦？",
+        "我觉得我已经用尽全力了……"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "その動きにくそうな服を脱げば",
+        "もっと強いだろうに"
+      ],
+      "translated_lines": [
+        "把你那个看起来不利于行动的衣服脱了",
+        "你肯定能更强"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "だって……",
+        "満月の夜は毛深いから……"
+      ],
+      "translated_lines": [
+        "因为……",
+        "满月之夜毛比较多……"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "狼の癖に？",
+        "毛深い？"
+      ],
+      "translated_lines": [
+        "明明是狼？",
+        "还怕毛多？"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "まあいいや"
+      ],
+      "translated_lines": [
+        "不过算了"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "半分獣なら思う存分炙れるな"
+      ],
+      "translated_lines": [
+        "有一半是野兽就足以烤到我满意为止了"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "ひー",
+        "私のキューティクルが"
+      ],
+      "translated_lines": [
+        "咿～",
+        "我的表皮"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "全身アフロにしてやるぜ",
+        "って"
+      ],
+      "translated_lines": [
+        "我要把你全身烤成爆炸毛",
+        "等下"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "そこまでする必要は無いか……",
+        "無い……よな？"
+      ],
+      "translated_lines": [
+        "没有必要做到这种程度吧……",
+        "没有……必要吧？"
+      ]
+    }
+  }
+}

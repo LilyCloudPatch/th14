@@ -1,0 +1,305 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st05c.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "何だ？",
+        "お前は"
+      ],
+      "translated_lines": [
+        "怎么？",
+        "你是谁"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "ここはお前達のような人間が",
+        "来る場所ではない"
+      ],
+      "translated_lines": [
+        "这里可不是你们这样的人类",
+        "可以来的地方"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "即刻立ち去れい！"
+      ],
+      "translated_lines": [
+        "速速离去！"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "いやだ"
+      ],
+      "translated_lines": [
+        "才不要"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "こんな面白そうなもん見つけて",
+        "手ぶらで帰れるもんか"
+      ],
+      "translated_lines": [
+        "发现了这么有趣的东西",
+        "岂有空手而归之理"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "……ほう",
+        "その手持ちの道具"
+      ],
+      "translated_lines": [
+        "……哦",
+        "你手上拿的道具"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "自我を持っている様だな"
+      ],
+      "translated_lines": [
+        "好像有自己的意识呢"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "お前も我々の仲間になるか？"
+      ],
+      "translated_lines": [
+        "你也要成为我们的伙伴？"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "仲間……だと？",
+        "何を企んでいる？"
+      ],
+      "translated_lines": [
+        "你说……伙伴？",
+        "你在打什么鬼主意？"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "|55,17,レジスタンス",
+        "我々はひっくり返す者だ"
+      ],
+      "translated_lines": [
+        "|65,19,起义军",
+        "我等是让一切颠倒之人"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "|36,14,・・",
+        "姫の秘宝を使い",
+        "幻想郷をひっくり返すのだ"
+      ],
+      "translated_lines": [
+        "|113,16,··",
+        "我们要用公主的秘宝",
+        "让整个幻想乡颠倒过来"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "お　おおう",
+        "そうか　それは大変だな"
+      ],
+      "translated_lines": [
+        "哦，哦哦",
+        "这样啊，那可真不得了"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "お前もまだ生まれて間もない",
+        "力無き妖怪だろう？"
+      ],
+      "translated_lines": [
+        "你也是个刚诞生不久",
+        "手无缚鸡之力的妖怪吧？"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "よ　妖怪だってぇ？"
+      ],
+      "translated_lines": [
+        "你，你说我是妖怪？"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "馬鹿にするな",
+        "私は人間だ"
+      ],
+      "translated_lines": [
+        "开什么玩笑",
+        "我可是人类"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "まあよい",
+        "味方になるなら人間でも構わぬ"
+      ],
+      "translated_lines": [
+        "怎样都好",
+        "就算人类只要想加入我们也好商量"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "幻想郷をひっくり返すなんて",
+        "賛同するわけがない"
+      ],
+      "translated_lines": [
+        "竟然想颠倒幻想乡",
+        "我可不敢苟同"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "そうか残念だな……",
+        "|31,9,つくもがみ",
+        "その八卦炉が泣いているぞ？"
+      ],
+      "translated_lines": [
+        "我可不敢苟同……",
+        "|49,17,付丧神",
+        "你那个八卦炉在哭哦？"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "持ち主が天に落ちていく姿が",
+        "最後に見るものだなんてな！"
+      ],
+      "translated_lines": [
+        "因为它最后看见的将是",
+        "主人向天上坠落的惨象啊！"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "くう",
+        "なんてこった"
+      ],
+      "translated_lines": [
+        "咕　",
+        "怎么会这样"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "時期尚早だったか"
+      ],
+      "translated_lines": [
+        "现在还为时尚早吗"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "何だよ",
+        "拍子抜けだぜ"
+      ],
+      "translated_lines": [
+        "什么啊",
+        "真是虎头蛇尾"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "もっと熱い闘いが繰り",
+        "広げられると思ったのに"
+      ],
+      "translated_lines": [
+        "还以为能变成更加",
+        "火热激烈的战斗呢"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "ますます仲間に欲しくなった",
+        "お前の力"
+      ],
+      "translated_lines": [
+        "看你这实力",
+        "越来越想把你拉拢过来了"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "我らの手に秘宝がある限り",
+        "お前もいくらでも強くなれるだろう"
+      ],
+      "translated_lines": [
+        "只要我们手里有秘宝",
+        "你想变得多强大都能实现"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "秘宝……だと？"
+      ],
+      "translated_lines": [
+        "你说……秘宝？"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "|33,11,おねがい",
+        "次の一振りはお前の心変わりに",
+        "するかな"
+      ],
+      "translated_lines": [
+        "|81,16,请求",
+        "或许下一场交锋就能让你",
+        "改变心意了"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "あっ　待て！"
+      ],
+      "translated_lines": [
+        "啊，站住！"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "秘宝……か"
+      ],
+      "translated_lines": [
+        "秘宝……吗"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "そういえば私の目的は",
+        "秘宝の発見だった"
+      ],
+      "translated_lines": [
+        "话说我的目的本来是",
+        "寻找秘宝啊"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "そうだ",
+        "そういう事にして追いかけるぜ"
+      ],
+      "translated_lines": [
+        "没错",
+        "就冲着秘宝继续追下去吧"
+      ]
+    }
+  }
+}

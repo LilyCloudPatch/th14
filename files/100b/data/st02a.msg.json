@@ -1,0 +1,153 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st02a.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "こんな人里近くで",
+        "妖怪騒ぎだって！？"
+      ],
+      "translated_lines": [
+        "距离人类村庄这么近的地方",
+        "竟然会有妖怪骚动！？"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "これは本格的に異変が",
+        "起こっているんだわ"
+      ],
+      "translated_lines": [
+        "看来是确确实实",
+        "有异变正在发生"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "早速現れたわね"
+      ],
+      "translated_lines": [
+        "这么快就出现了呢"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "私を退治しに来たというの？"
+      ],
+      "translated_lines": [
+        "是来退治我的吗？"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "探す手間が省けたわ",
+        "そっちから出て来てくれるなんて"
+      ],
+      "translated_lines": [
+        "这下可省得花时间去找了",
+        "想不到自己就现身了"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "さっさと片付けるわよ！"
+      ],
+      "translated_lines": [
+        "干净利落地收拾掉吧！"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "……本当ね"
+      ],
+      "translated_lines": [
+        "……看来是真的呢"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "大人しくしてたら",
+        "人間が増長したって"
+      ],
+      "translated_lines": [
+        "听说我们老老实实呆了一阵子",
+        "人类就自大起来了"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "雑魚が粋がってるんじゃ",
+        "ないわよ"
+      ],
+      "translated_lines": [
+        "杂鱼就不要",
+        "自以为是了"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "……非力な人間の癖に"
+      ],
+      "translated_lines": [
+        "……明明只是个无能的人类"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "頭を見る度うなされよ！"
+      ],
+      "translated_lines": [
+        "让你今后每当看到我的头就魂飞魄散吧！"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "な　なによあんた",
+        "強いじゃないのよ"
+      ],
+      "translated_lines": [
+        "你，你是什么人",
+        "这不是很强吗"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "妖怪退治は専門だもん"
+      ],
+      "translated_lines": [
+        "妖怪退治可是我的专长"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "もしかして",
+        "あなたは……"
+      ],
+      "translated_lines": [
+        "难道说",
+        "你是……"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "そうよ！",
+        "このお祓い棒が目に入らぬか！"
+      ],
+      "translated_lines": [
+        "没错！",
+        "你眼睛看不见这个驱魔棒吗！"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "ははー",
+        "こりゃ失礼しましたー"
+      ],
+      "translated_lines": [
+        "是～",
+        "这可真是失礼了～"
+      ]
+    }
+  }
+}

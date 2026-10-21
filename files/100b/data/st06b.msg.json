@@ -1,0 +1,245 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st06b.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "すっかり夜が明けたみたいね"
+      ],
+      "translated_lines": [
+        "似乎天已经完全亮了呢"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "もう闘いのお膳立ては整ったわ"
+      ],
+      "translated_lines": [
+        "战斗的准备已经做好了"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "さあ出てきなさい！",
+        "幻想郷の平穏を破る者よ！"
+      ],
+      "translated_lines": [
+        "好了给我出来吧！",
+        "打破幻想乡平稳的人啊！"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "だーれ？"
+      ],
+      "translated_lines": [
+        "谁～呀？"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "あら博麗神社の巫女じゃない"
+      ],
+      "translated_lines": [
+        "哎呀这不是博丽神社的巫女吗"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "来るべき時が来たのね"
+      ],
+      "translated_lines": [
+        "出现的还真是及时呢"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "あんたが誰なのか知らないけど",
+        "下克上を企んでるんだって？"
+      ],
+      "translated_lines": [
+        "虽然不知道你是谁",
+        "但听说你企图下克上？"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "悪いけど",
+        "その企みはここでお仕舞いよ！"
+      ],
+      "translated_lines": [
+        "不好意思",
+        "这个企图就到此为止了"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "ついに巫女に気付かれ",
+        "ちゃったのかー"
+      ],
+      "translated_lines": [
+        "终于被巫女",
+        "发现了吗～"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "でも私は諦めない！"
+      ],
+      "translated_lines": [
+        "但是我不会放弃的！"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "小人の一族がどのような",
+        "屈辱を味わって来たのか"
+      ],
+      "translated_lines": [
+        "小人一族至今为止",
+        "受到多少屈辱"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "貴方達に判らせるまで！"
+      ],
+      "translated_lines": [
+        "直到你明白为止我不会放弃！"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "小人だって！？"
+      ],
+      "translated_lines": [
+        "你说小人！？"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "そんなの居たんだ"
+      ],
+      "translated_lines": [
+        "真的有小人存在啊"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "ほらそれよ！",
+        "小人はいつも無視されてきたんだわ"
+      ],
+      "translated_lines": [
+        "就是这种态度！",
+        "我等小人一直像这样被无视"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "貴方達には弱者の気持ちが",
+        "わからない"
+      ],
+      "translated_lines": [
+        "你们根本不懂",
+        "弱者的感受"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "だから下克上するの！"
+      ],
+      "translated_lines": [
+        "所以我要下克上！"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "弱いって判ってるんなら",
+        "大人しくしてないとね"
+      ],
+      "translated_lines": [
+        "都知道自己很弱",
+        "还不肯老实一点呢"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "|107,5,ことわり",
+        "それが幻想郷の理よ！"
+      ],
+      "translated_lines": [
+        "这正是幻想乡之理哦！"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "大体　弱者がどうやって",
+        "私に勝つつもりなのかしら？"
+      ],
+      "translated_lines": [
+        "大体上，作为弱者的你",
+        "到底要怎样才能胜过我呢？"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "あはははは",
+        "やはり強者と弱者は相容れない……か"
+      ],
+      "translated_lines": [
+        "啊哈哈哈哈",
+        "果然强者和弱者水火不容……吗"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "だが私の手には夢幻の力がある"
+      ],
+      "translated_lines": [
+        "我的手中掌握着梦幻之力"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "|160,10,こづち",
+        "それが秘宝『打ち出の小槌』！"
+      ],
+      "translated_lines": [
+        "那就是秘宝『万宝槌』！"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "打ち出の……小槌だって！？",
+        "もしかしてその手にあるのは……"
+      ],
+      "translated_lines": [
+        "万宝……槌！？",
+        "难道你手中的就是……"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "あわてふためくがいい",
+        "私には逃げ惑う強者の姿が見える"
+      ],
+      "translated_lines": [
+        "你就尽情地惊慌失措吧！",
+        "我已经能看到强者抱头鼠窜的景象了"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "|48,10,こづち",
+        "さあ、秘宝よ！",
+        "身体小さき者に夢幻の力を与え給え！"
+      ],
+      "translated_lines": [
+        "|49,16,小槌",
+        "好了，秘宝哟！",
+        "给予身形矮小之人梦幻般的力量吧！"
+      ]
+    }
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st03a.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "私を退治しに来たのね？"
+      ],
+      "translated_lines": [
+        "是来退治我的吧？"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "何か……",
+        "今日倒して来た妖怪って"
+      ],
+      "translated_lines": [
+        "总感觉……",
+        "今天打倒的这些妖怪"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "みんな退治されたがって",
+        "いたような"
+      ],
+      "translated_lines": [
+        "好像都比较想要",
+        "被退治来着"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "そう見えるのかしら？"
+      ],
+      "translated_lines": [
+        "看起来是那样的吗？"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "ただ単にみんなちょっと",
+        "嬉しいだけだと思うけど"
+      ],
+      "translated_lines": [
+        "我倒觉得大家单单只是",
+        "比较高兴而已"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "嬉しいだって！？"
+      ],
+      "translated_lines": [
+        "你说高兴！？"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "妖怪退治の専門家だって",
+        "謳っていてもさ"
+      ],
+      "translated_lines": [
+        "即使你自诩为",
+        "妖怪退治的专家"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "私達みたいな単独行動の妖怪は",
+        "いつも相手にされてなかったから"
+      ],
+      "translated_lines": [
+        "像我们这样单独行动的妖怪",
+        "也从来没被理会过"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "だって……",
+        "キリが無いじゃん"
+      ],
+      "translated_lines": [
+        "因为……",
+        "那不就没完了吗"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "暴れてない奴まで",
+        "相手にしてられないわ"
+      ],
+      "translated_lines": [
+        "我实在是没办法去理会",
+        "那些没有暴动的家伙啊"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "本当は問答無用に",
+        "攻撃したいんだけど"
+      ],
+      "translated_lines": [
+        "虽然心里是想要",
+        "不分青红皂白地攻击的"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "ふふふ",
+        "じゃあ相手にして貰うには"
+      ],
+      "translated_lines": [
+        "呵呵呵",
+        "也就是说想要被当成对手的话"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "暴れるしか無いわね"
+      ],
+      "translated_lines": [
+        "只好大闹一场了"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "暴れる妖怪には容赦しないわ！"
+      ],
+      "translated_lines": [
+        "闹事的妖怪绝不姑息！"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "気の毒ねぇ",
+        "こんな満月の夜に……"
+      ],
+      "translated_lines": [
+        "真是过意不去呢",
+        "在这样的满月之夜……"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "何の妖怪かと思ったら",
+        "狼女だったのね"
+      ],
+      "translated_lines": [
+        "我还以为是什么妖怪",
+        "原来是狼女啊"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "あーあ",
+        "満月なのに負けちゃった"
+      ],
+      "translated_lines": [
+        "唉　",
+        "明明是满月但还是输了"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "所詮は獣ね"
+      ],
+      "translated_lines": [
+        "终究也只是野兽而已"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "弾幕はパワーだけじゃ",
+        "無くて頭も使わなきゃ"
+      ],
+      "translated_lines": [
+        "弹幕可不只是力量",
+        "也得动动脑子"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "あーあ　お祓い棒が",
+        "獣くさくなっちゃった"
+      ],
+      "translated_lines": [
+        "唉，驱魔棒",
+        "沾上一股野兽味儿了"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "ひどいわー"
+      ],
+      "translated_lines": [
+        "太过分了～"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "こんな出たくも無い日に出て",
+        "闘ったというのに"
+      ],
+      "translated_lines": [
+        "明明我都已经在这么",
+        "不想见人的日子和你战斗了"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "出たくない日？",
+        "満月なのに？　狼女なのに？"
+      ],
+      "translated_lines": [
+        "不想见人的日子？",
+        "明明是满月？明明是狼女？"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "毛深くなるから……"
+      ],
+      "translated_lines": [
+        "因为毛会变多……"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "そ　そう"
+      ],
+      "translated_lines": [
+        "是，是吗"
+      ]
+    }
+  }
+}

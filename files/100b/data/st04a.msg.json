@@ -1,0 +1,293 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st04a.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "この不気味な嵐は一体……"
+      ],
+      "translated_lines": [
+        "这阵诡异的风暴究竟是……"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "こういう所に何らかの敵がいる！",
+        "私の経験上！"
+      ],
+      "translated_lines": [
+        "这种地方一定会有敌人！",
+        "这可是我的经验之谈！"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "みーつけた"
+      ],
+      "translated_lines": [
+        "发～现啦"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "私の相手になってくれそうな人"
+      ],
+      "translated_lines": [
+        "看起来能当我对手的人"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "ほら妖怪がいた"
+      ],
+      "translated_lines": [
+        "看，果然有妖怪吧"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "こうなりゃ何でも相手になるわよ"
+      ],
+      "translated_lines": [
+        "这样的话无论如何我都要做你的对手了哟"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "ちょっと待ってよ",
+        "そいつは私が先に見つけたのよ"
+      ],
+      "translated_lines": [
+        "等一下啊",
+        "最先发现那家伙的是我啊"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "後から来て横取りだなんて狡いわ",
+        "姉さん"
+      ],
+      "translated_lines": [
+        "来得比我晚还想抢走也太狡猾了",
+        "姐姐"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "良いじゃないの"
+      ],
+      "translated_lines": [
+        "有什么关系"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "それにさっきの戦いをみてたけど",
+        "あんたの手ぬるい音楽じゃあ無理よ"
+      ],
+      "translated_lines": [
+        "况且我看了刚才的战斗",
+        "凭你那种慢吞吞的音乐是不行的"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "この付喪神使いを倒すのは"
+      ],
+      "translated_lines": [
+        "要想打倒这个付丧神使的话"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "付喪神使いだって！？"
+      ],
+      "translated_lines": [
+        "付丧神使！？"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "人を妖怪みたいに言わないの",
+        "私はあんたみたいな妖怪を退治する者よ"
+      ],
+      "translated_lines": [
+        "别把人说得像妖怪一样",
+        "我可是负责驱除你们这种妖怪的人"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "ふーん……"
+      ],
+      "translated_lines": [
+        "是吗……"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "てっきり",
+        "お仲間だと思ったんだけどねぇ"
+      ],
+      "translated_lines": [
+        "我一直以为",
+        "你是我们的同伴呢"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "まあいいや",
+        "こいつは姉さんに任せるわ"
+      ],
+      "translated_lines": [
+        "算了",
+        "这家伙就交给姐姐吧"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "じゃあねー"
+      ],
+      "translated_lines": [
+        "再见啦～"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "あ　ちょっ……"
+      ],
+      "translated_lines": [
+        "啊，等……"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "さあボサッとしてないで"
+      ],
+      "translated_lines": [
+        "好啦别再发呆了"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "何もかも逆さまな",
+        "下克上のこの世界"
+      ],
+      "translated_lines": [
+        "在这个万物颠倒的",
+        "下克上的世界"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "最強の道具が誰なのか",
+        "今ここで決めるわよ！"
+      ],
+      "translated_lines": [
+        "现在就在这里决定",
+        "谁才是最强的道具吧！"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "うーん",
+        "まいったまいった"
+      ],
+      "translated_lines": [
+        "嗯～",
+        "服了服了"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "降参よー"
+      ],
+      "translated_lines": [
+        "我投降～"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "ちょっとちょっと"
+      ],
+      "translated_lines": [
+        "等一下等一下"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "下克上の世界って",
+        "どういうこと？"
+      ],
+      "translated_lines": [
+        "下克上的世界",
+        "是怎么回事？"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "え？"
+      ],
+      "translated_lines": [
+        "咦？"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "だって……",
+        "私みたいな道具もこんな力を得たのよ"
+      ],
+      "translated_lines": [
+        "因为……",
+        "像我们这样的道具也能拥有力量呀"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "今まで大人しくしていたけど",
+        "これからは私達の時代だわ"
+      ],
+      "translated_lines": [
+        "虽然我们以前一直很老实",
+        "但今后就是我们的时代啦"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "う　うーん"
+      ],
+      "translated_lines": [
+        "是，是吗"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "この嵐の中",
+        "貴方もあそこを目指してるんでしょ？"
+      ],
+      "translated_lines": [
+        "在这股风暴中",
+        "你的目标也是那里吧？"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "あそこ？"
+      ],
+      "translated_lines": [
+        "那里？"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "空中に浮かぶ逆さ城……",
+        "あそこから力が洩れているんだから"
+      ],
+      "translated_lines": [
+        "飘浮在空中的倒立城……",
+        "力量是从那里泄漏出来的呢"
+      ]
+    }
+  }
+}

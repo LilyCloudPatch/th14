@@ -1,0 +1,149 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st02d.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "こんなところにも",
+        "妖怪が出たか"
+      ],
+      "translated_lines": [
+        "这种地方",
+        "也出现妖怪了吗"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "柳の下なんて幽霊の旦那の",
+        "指定席だと思ってたが"
+      ],
+      "translated_lines": [
+        "我还以为柳树下",
+        "都是幽灵老兄的指定席"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "意外と沢山居るのよ"
+      ],
+      "translated_lines": [
+        "意外地有很多哦"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "人里近くに住む妖怪も"
+      ],
+      "translated_lines": [
+        "住在人类村庄附近的妖怪也是"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "おっと",
+        "さっきも会ったな"
+      ],
+      "translated_lines": [
+        "哎哟",
+        "刚才也遇到你了"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "私も見て怖がらない",
+        "なんて許さない"
+      ],
+      "translated_lines": [
+        "见到我也不害怕",
+        "这种事决不允许"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "いやビックリしたぜ",
+        "さっき生首を見たしな"
+      ],
+      "translated_lines": [
+        "不我可吓了一跳",
+        "毕竟刚才看到你的头飞出来了"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "その生首"
+      ],
+      "translated_lines": [
+        "那个头"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "もう一度見てみる？"
+      ],
+      "translated_lines": [
+        "要不要再看一次？"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "怖がってくれたかしら？"
+      ],
+      "translated_lines": [
+        "害怕了吗？"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "いやまあ"
+      ],
+      "translated_lines": [
+        "呃不"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "そうでも無いな",
+        "気持ち悪いけど"
+      ],
+      "translated_lines": [
+        "也不是",
+        "就是有点恶心"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "がっくし"
+      ],
+      "translated_lines": [
+        "失望"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "最近の人間は肝が据わってるわね"
+      ],
+      "translated_lines": [
+        "最近的人类胆子真大"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "まあ私は特別だからな"
+      ],
+      "translated_lines": [
+        "不过也因为我是特别的"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "里で暴れるなよ？",
+        "子供が泣くぜ"
+      ],
+      "translated_lines": [
+        "不要在村子里大闹哦？",
+        "小孩子会吓哭的"
+      ]
+    }
+  }
+}

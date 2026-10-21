@@ -1,0 +1,231 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st03b.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "私を退治しに来たのね？"
+      ],
+      "translated_lines": [
+        "是来退治我的吧？"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "何か……",
+        "今日倒して来た妖怪って"
+      ],
+      "translated_lines": [
+        "总感觉……",
+        "今天打倒的这些妖怪"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "みんな退治されたがって",
+        "いたような"
+      ],
+      "translated_lines": [
+        "好像都比较想要",
+        "被退治来着"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "そう見えるのかしら？"
+      ],
+      "translated_lines": [
+        "看起来是那样的吗？"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "ただ単にみんなちょっと",
+        "嬉しいだけだと思うけど"
+      ],
+      "translated_lines": [
+        "我倒觉得大家单单只是",
+        "比较高兴而已"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "嬉しいだって！？"
+      ],
+      "translated_lines": [
+        "你说高兴！？"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "妖怪退治の専門家だって",
+        "謳っていてもさ"
+      ],
+      "translated_lines": [
+        "即使你自诩为",
+        "妖怪退治的专家"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "私達みたいな単独行動の妖怪は",
+        "いつも相手にされてなかったから"
+      ],
+      "translated_lines": [
+        "像我们这样单独行动的妖怪",
+        "也从来没被理会过"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "私だって暇じゃ無いのよ"
+      ],
+      "translated_lines": [
+        "我也不是很闲的啊"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "かまって貰いたい為だけで",
+        "暴れないで欲しいなぁ"
+      ],
+      "translated_lines": [
+        "希望你不要只是因为想要",
+        "吸引我的注意就闹事啊"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "調子に乗ると痛い目に",
+        "遭うわよ？"
+      ],
+      "translated_lines": [
+        "得意忘形的话",
+        "下场会很惨哦？"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "よりにもよって",
+        "こんな満月の夜にね"
+      ],
+      "translated_lines": [
+        "而且还是",
+        "在这样的满月之夜"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "何の妖怪かと思ったら",
+        "狼女だったのね"
+      ],
+      "translated_lines": [
+        "我还以为是什么妖怪",
+        "原来是狼女啊"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "あーあ",
+        "満月なのに負けちゃった"
+      ],
+      "translated_lines": [
+        "唉　",
+        "明明是满月但还是输了"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "最近普段大人しい筈の妖怪が",
+        "暴れているみたいだけど"
+      ],
+      "translated_lines": [
+        "最近平时应该很老实的妖怪",
+        "在四处大闹"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "何故なの？"
+      ],
+      "translated_lines": [
+        "这是为什么？"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "さあ",
+        "偶然じゃ無いかしら？"
+      ],
+      "translated_lines": [
+        "谁知道",
+        "是不是偶然呢？"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "最低でも私は自分の意思よ？",
+        "……たぶん"
+      ],
+      "translated_lines": [
+        "无论如何这也是我自己的意志哦？",
+        "……大概"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "むむむ"
+      ],
+      "translated_lines": [
+        "唔唔唔"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "そんな妙な事あるかなぁ"
+      ],
+      "translated_lines": [
+        "会有这么奇特的事吗"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "本当は満月の日に出たく",
+        "なかったんだけどなぁ"
+      ],
+      "translated_lines": [
+        "其实我原本是不想在",
+        "满月之日出来的"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "なんで？",
+        "さっきまで嬉々としてたじゃない"
+      ],
+      "translated_lines": [
+        "为什么？",
+        "刚才你不还是活蹦乱跳的"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "ほら……",
+        "抜け毛の処理が面倒だから"
+      ],
+      "translated_lines": [
+        "你看……",
+        "处理掉下来的毛好麻烦"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "あー　うん"
+      ],
+      "translated_lines": [
+        "啊～嗯"
+      ]
+    }
+  }
+}

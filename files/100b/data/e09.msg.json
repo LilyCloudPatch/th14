@@ -1,0 +1,73 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/e09.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　魔理沙の家。"
+      ],
+      "translated_lines": [
+        "　　魔理沙的家。"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　魔理沙の心は揺れ動いていた。"
+      ],
+      "translated_lines": [
+        "　　魔理沙的内心动摇着。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "魔理沙「ほう、中々やるなぁ。"
+      ],
+      "translated_lines": [
+        "魔理沙「呵，还真厉害啊。"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "　　　　これなら味方に付こうかな」"
+      ],
+      "translated_lines": [
+        "　　　　要不就加入她们吧」"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "　　魔理沙は強力な打ち出の小槌に打ちのめされていた。"
+      ],
+      "translated_lines": [
+        "　　魔理沙被强大的万宝槌打倒了。"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "　　ついに反逆者、魔理沙の活躍が始まる！？"
+      ],
+      "translated_lines": [
+        "　　叛逆者魔理沙终于要开始大显身手了吗！？"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "　",
+        "　　Ending　No.09　　ボムを有効利用するのだ！"
+      ],
+      "translated_lines": [
+        "　",
+        "　　Ending　No.09　　要有效利用Bomb！"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "　　ノーコンティニューでクリアを目指せ！"
+      ],
+      "translated_lines": [
+        "　　以不续关通关为目标努力吧！"
+      ]
+    }
+  }
+}

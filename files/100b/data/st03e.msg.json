@@ -1,0 +1,197 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st03e.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "私を退治しに来たのね？"
+      ],
+      "translated_lines": [
+        "是来退治我的吧？"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "……何か"
+      ],
+      "translated_lines": [
+        "……怎么"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "みんな退治されたがっている",
+        "のかしら"
+      ],
+      "translated_lines": [
+        "大家都想被",
+        "退治吗"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "貴方に私が倒せるかしら？"
+      ],
+      "translated_lines": [
+        "就凭你能打倒我吗？"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "ええ",
+        "倒せると思います"
+      ],
+      "translated_lines": [
+        "是的",
+        "我认为能打倒"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "そ　そう",
+        "言い切ったわね"
+      ],
+      "translated_lines": [
+        "是，是吗",
+        "一口咬定呢"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "今日は何かこのナイフが",
+        "抑えきれなくて……"
+      ],
+      "translated_lines": [
+        "今天不知为什么我这把刀",
+        "抑制不住了……"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "しかし残念ね",
+        "この満月の夜に"
+      ],
+      "translated_lines": [
+        "不过真是遗憾",
+        "居然要在这个满月之夜"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "私と闘うなんて……"
+      ],
+      "translated_lines": [
+        "和我战斗……"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "なんと狼男でしたか"
+      ],
+      "translated_lines": [
+        "居然是狼男啊"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "狼女です！"
+      ],
+      "translated_lines": [
+        "我是狼女！"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "まあどっちでも……",
+        "ナイフの錆びになって貰いましょう"
+      ],
+      "translated_lines": [
+        "总之无论是什么……",
+        "你都会变成我这把刀上的锈迹的"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "ひえー"
+      ],
+      "translated_lines": [
+        "咿～"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "あーいや",
+        "錆びちゃうのは困るわね"
+      ],
+      "translated_lines": [
+        "啊～不",
+        "生锈就不好办了"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "峰打ちで勘弁しておきましょう"
+      ],
+      "translated_lines": [
+        "就用刀背砍一下饶了你吧"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "峰打ちって……"
+      ],
+      "translated_lines": [
+        "你说用刀背砍……"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "そのナイフ",
+        "両刃じゃない"
+      ],
+      "translated_lines": [
+        "那把刀",
+        "不是双刃吗"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "ふふふ",
+        "まあどっちでも……"
+      ],
+      "translated_lines": [
+        "呵呵呵",
+        "总之无论怎么样……"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "怖いわー",
+        "人間怖いわー"
+      ],
+      "translated_lines": [
+        "好恐怖～",
+        "人类好恐怖～"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "うーん"
+      ],
+      "translated_lines": [
+        "嗯～"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "妖怪イジメをして",
+        "私は何がしたいのかしら？"
+      ],
+      "translated_lines": [
+        "我欺负这些妖怪",
+        "是想干什么呢？"
+      ]
+    }
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/st04d.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "急に雲が現れたと思ったら",
+        "こりゃあすげえな"
+      ],
+      "translated_lines": [
+        "正想着为什么突然出现了这么多云",
+        "这还真是厉害啊"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "確実にこの中に悪い奴がいる"
+      ],
+      "translated_lines": [
+        "这里面确实有讨厌的家伙"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "ちょっとまって"
+      ],
+      "translated_lines": [
+        "稍微等一下"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "私の相手をしてくれない？"
+      ],
+      "translated_lines": [
+        "能来当下我的对手么？"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "付喪神だな？",
+        "丁度良い"
+      ],
+      "translated_lines": [
+        "你是付丧神吧？",
+        "那正好"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "きっとこういう奴を辿っていけば",
+        "|100,14,・・",
+        "ミニ八卦炉がああなった理由が判る筈"
+      ],
+      "translated_lines": [
+        "从这样的家伙入手追寻下去的话",
+        "|225,16,··",
+        "一定就可以探明迷你八卦炉变成那样的原因了"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "こらこらそいつは私の獲物だぞ？"
+      ],
+      "translated_lines": [
+        "喂喂那家伙可是我的猎物哦？"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "横取りとは感心しないねぇ"
+      ],
+      "translated_lines": [
+        "你这么横插一脚可不好哦"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "ふーんだ",
+        "逃す方が悪いんだから"
+      ],
+      "translated_lines": [
+        "哼　",
+        "那也只能怪你让她半路逃跑了"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "それにさっきの戦いをみてたけど"
+      ],
+      "translated_lines": [
+        "况且我看了刚才的战斗"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "こいつは姉さんの直線的な",
+        "音楽じゃあ駄目よ"
+      ],
+      "translated_lines": [
+        "姐姐那样直来直去的音乐",
+        "要对付这家伙可是行不通的哦"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "お　おう"
+      ],
+      "translated_lines": [
+        "哦，哦哦"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "二人相手でも構わないぞ？"
+      ],
+      "translated_lines": [
+        "两个人同时做对手我也没关系哦？"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "うーん"
+      ],
+      "translated_lines": [
+        "嗯～"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "私は一人で人間と闘って",
+        "倒すのが夢だったんだから"
+      ],
+      "translated_lines": [
+        "能够凭自己一个人的力量",
+        "打倒人类可是我的梦想啊"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "あっそう　まあいいや",
+        "私は他の相手を探そうっと"
+      ],
+      "translated_lines": [
+        "啊是吗，那算了",
+        "那我就去找找别的对手吧"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "じゃあ後はよろしく"
+      ],
+      "translated_lines": [
+        "之后就拜托你咯"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "なんだ",
+        "結局お前一人か"
+      ],
+      "translated_lines": [
+        "什么嘛",
+        "结果还是你一个人啊"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "道具だからって",
+        "甘く見ないでよね"
+      ],
+      "translated_lines": [
+        "别因为我是道具",
+        "就小看我呢"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "大人しき者が力を得る",
+        "この下克上の世界"
+      ],
+      "translated_lines": [
+        "在老实的存在能够得到力量的",
+        "这个下克上的世界"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "道具だって世界を支配できる！",
+        "貴方はその礎となるのよ！"
+      ],
+      "translated_lines": [
+        "就算是道具也能支配世界！",
+        "你将是这路上的垫脚石！"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "わーお"
+      ],
+      "translated_lines": [
+        "哇～哦"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "こりゃ無理だー"
+      ],
+      "translated_lines": [
+        "这根本做不到嘛～"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "さっき変な事を",
+        "言ってなかったか？"
+      ],
+      "translated_lines": [
+        "刚才你是不是",
+        "说了些奇怪的事？"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "下克上の世界……とか"
+      ],
+      "translated_lines": [
+        "下克上的世界……之类的"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "だって……",
+        "私みたいな道具でも力が持てる"
+      ],
+      "translated_lines": [
+        "因为……",
+        "我这样的道具也可以获得力量"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "最高じゃない",
+        "大人しくしている場合じゃないわ"
+      ],
+      "translated_lines": [
+        "这不是太棒了吗",
+        "完全不是该老老实实的时候"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "それで人間に逆襲した",
+        "とでも？"
+      ],
+      "translated_lines": [
+        "所以就反过来袭击",
+        "人类？"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "人間だけじゃないわ",
+        "いずれは世界を支配するつもりで"
+      ],
+      "translated_lines": [
+        "不光是人类哦",
+        "总有一天也可以支配世界的"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "はん！",
+        "道具風情が世界をだと……？"
+      ],
+      "translated_lines": [
+        "哈啊！",
+        "区区道具也想支配世界……？"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "いやまて……",
+        "そうか……"
+      ],
+      "translated_lines": [
+        "不等等……",
+        "这样啊……"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "ミニ八卦炉が勝手に",
+        "動き出したのも……？"
+      ],
+      "translated_lines": [
+        "迷你八卦炉随随便便",
+        "自己动起来也是……？"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "その話",
+        "詳しく教えてくれないか？"
+      ],
+      "translated_lines": [
+        "那件事",
+        "能不能详细告诉我呢？"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "今まで大人しかった妖怪達ほど",
+        "強い力が貰える"
+      ],
+      "translated_lines": [
+        "迄今为止越是老实的妖怪们",
+        "越能获得强大的力量"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "そういう世界が出来つつあるの"
+      ],
+      "translated_lines": [
+        "那样的世界就快形成了"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "空中に浮かぶ逆さ城……",
+        "全てはあそこから出る力によって"
+      ],
+      "translated_lines": [
+        "漂浮在空中的倒立城……",
+        "全部都是托了从那放出的力量的福"
+      ]
+    }
+  }
+}

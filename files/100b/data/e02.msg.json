@@ -1,0 +1,247 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th14_100b",
+  "resource": "data/e02.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　博麗神社。"
+      ],
+      "translated_lines": [
+        "　　博丽神社。"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　幻想郷の東の境に位置する神社である。"
+      ],
+      "translated_lines": [
+        "　　坐落于幻想乡东部边境的神社。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "霊夢　「大きくなあれ！」"
+      ],
+      "translated_lines": [
+        "灵梦  「变大吧！」"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "魔理沙「……」"
+      ],
+      "translated_lines": [
+        "魔理沙「……」"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "霊夢　「やっぱり何も起きないかー」"
+      ],
+      "translated_lines": [
+        "灵梦  「果然什么也没发生呢～」"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "魔理沙「偽物なんじゃ無いのか？」"
+      ],
+      "translated_lines": [
+        "魔理沙「这不会是假货吧？」"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "霊夢　「確かに大きくなったのよ。この前」"
+      ],
+      "translated_lines": [
+        "灵梦  「但之前的时候我的确变大了哦」"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "魔理沙「大きくなってどうだったんだ？」"
+      ],
+      "translated_lines": [
+        "魔理沙「变大了之后有什么感受吗？」"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "霊夢　「弾が避けにくくなったわ。",
+        "　　　　無闇に大きくならない方が良いわね」"
+      ],
+      "translated_lines": [
+        "灵梦  「躲避弹幕变得困难了。",
+        "　　　　还是不要随便变大比较好呢」"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "魔理沙「……まあな」"
+      ],
+      "translated_lines": [
+        "魔理沙「……也是呢」"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "針妙丸「あんた達人間がいくら振っても無駄よー」"
+      ],
+      "translated_lines": [
+        "针妙丸「你们这些人类再怎么挥动小槌也没用～」"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "霊夢　「あー何か言った？」"
+      ],
+      "translated_lines": [
+        "灵梦  「啊～你说什么？」"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "針妙丸「その打ち出の小槌は我々小人族にしか扱えないの。"
+      ],
+      "translated_lines": [
+        "针妙丸「这个万宝槌只有我们小人族才能使用。"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "　　　　代償に身体が小さいんだけど……」"
+      ],
+      "translated_lines": [
+        "　　　　虽然代价是身体很小……」"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "霊夢　「ふーん、そうかぁ。つまんないの。"
+      ],
+      "translated_lines": [
+        "灵梦  「是吗，这样。真是无聊。"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "　　　　ところでどんな願いでも叶えるって本当なの？」"
+      ],
+      "translated_lines": [
+        "　　　　话说回来 无论什么愿望都能实现是真的吗？」"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "針妙丸「多分ねー、そう聞いてたから」"
+      ],
+      "translated_lines": [
+        "针妙丸「大概是吧～我是这么听说的」"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "魔理沙「聞いてたって試してないのか？」"
+      ],
+      "translated_lines": [
+        "魔理沙「你说听说的，难道你没有试一下吗？」"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "針妙丸「どんな願いでも……って確かめようが無いでしょ？"
+      ],
+      "translated_lines": [
+        "针妙丸「无论什么愿望……这种事情没办法确认的吧？"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "　　　　天邪鬼がそう言ってたから振ってたけど」"
+      ],
+      "translated_lines": [
+        "　　　　我只是因为天邪鬼这么说了就动手了」"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "魔理沙「天邪鬼が言ってたって……そんなのを信じるのか？」"
+      ],
+      "translated_lines": [
+        "魔理沙「只是因为天邪鬼这么说……这种话你也相信？」"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "霊夢　「本当は願いを叶えているんじゃないかもねぇ」"
+      ],
+      "translated_lines": [
+        "灵梦  「其实愿望真的实现了也说不定呢」"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "針妙丸「ねえそろそろ手が痺れてきたんだけどー」"
+      ],
+      "translated_lines": [
+        "针妙丸「那个，我的手已经有点麻了～」"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "　　一寸法師は蓄えてきた力を全て放出し、また小さい姿に戻って",
+        "　　しまった。暫くはその姿のままであろう。"
+      ],
+      "translated_lines": [
+        "　　一寸法师释放了积蓄的全部力量，再次变回了小小的",
+        "　　身姿。暂时只能保持这个样子了吧。"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "　　打ち出の小槌で自身が大きくなる以外の願いをしたのは、",
+        "　　今回が初めてだという。"
+      ],
+      "translated_lines": [
+        "　　利用万宝槌许下让自己身体变大以外的愿望，",
+        "　　这对她来说还是第一次。"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "　　望んだ願い以外にも力が洩れ、大人しい妖怪が凶暴化したり、",
+        "　　道具が動き出したりしたのは予想外だったようだ。"
+      ],
+      "translated_lines": [
+        "　　而它的魔力泄漏到了愿望以外的地方，使原本老实的妖怪凶暴化，",
+        "　　让道具开始行动，这些情况都在意料之外。"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "　　唆した天邪鬼はその事を知っていたのだろうか？"
+      ],
+      "translated_lines": [
+        "　　唆使她的天邪鬼是否知道这些事情呢？"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "　　Ending　No.02　　（当たり判定が）小さくなあれ！"
+      ],
+      "translated_lines": [
+        "　　Ending　No.02　　（中弹判定）变小吧！"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "　　　　　オールクリアおめでとう！　クールだね！"
+      ],
+      "translated_lines": [
+        "　　　　　恭喜全部通关！ 真酷！"
+      ]
+    }
+  }
+}
